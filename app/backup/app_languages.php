@@ -20,6 +20,7 @@ $text['title-backup']['ro-ro'] = "";
 $text['title-backup']['ru-ru'] = "Резервное копирование";
 $text['title-backup']['sv-se'] = "Backup";
 $text['title-backup']['uk-ua'] = "Резервна копія";
+$text['title-backup']['vi'] = "Sao lưu";
 
 $text['option-file_download']['en-us'] = "File Download";
 $text['option-file_download']['ar-eg'] = "";
@@ -40,6 +41,7 @@ $text['option-file_download']['ro-ro'] = "";
 $text['option-file_download']['ru-ru'] = "Скачать архив";
 $text['option-file_download']['sv-se'] = "Ladda Ned Fil";
 $text['option-file_download']['uk-ua'] = "Скачування файлу";
+$text['option-file_download']['vi'] = "Tải file";
 
 $text['option-command']['en-us'] = "Command";
 $text['option-command']['ar-eg'] = "";
@@ -80,6 +82,7 @@ $text['message-restore_failed_upload']['ro-ro'] = "";
 $text['message-restore_failed_upload']['ru-ru'] = "Ошибка восстановления - Загрузка файла не удалась";
 $text['message-restore_failed_upload']['sv-se'] = "Återställning Misslyckades - Filöverföring misslyckades";
 $text['message-restore_failed_upload']['uk-ua'] = "Помилка відновлення: неможливо завантажити файл";
+$text['message-restore_failed_upload']['vi'] = "Khôi phục thất bại và Tải tệp lên không thành công";
 
 $text['message-restore_failed_format']['en-us'] = "Restore Failed - Invalid File Format";
 $text['message-restore_failed_format']['ar-eg'] = "";
@@ -100,6 +103,7 @@ $text['message-restore_failed_format']['ro-ro'] = "";
 $text['message-restore_failed_format']['ru-ru'] = "Ошибка восстановления - Неверный формат файла";
 $text['message-restore_failed_format']['sv-se'] = "Återställning Misslyckades - Ogiltigt Filformat";
 $text['message-restore_failed_format']['uk-ua'] = "Помилка відновлення: хибний формат файлу";
+$text['message-restore_failed_format']['vi'] = "Khôi phục thất bại - Địn dạng tệp không hợp lệ";
 
 $text['message-restore_failed_extract']['en-us'] = "Restore Failed - Extraction Error";
 $text['message-restore_failed_extract']['ar-eg'] = "";
@@ -120,6 +124,7 @@ $text['message-restore_failed_extract']['ro-ro'] = "";
 $text['message-restore_failed_extract']['ru-ru'] = "Ошибка восстановления - Ошибка при извлечении";
 $text['message-restore_failed_extract']['sv-se'] = "Återställning Misslyckades - extraktion misslyckades";
 $text['message-restore_failed_extract']['uk-ua'] = "Помилка відновлення: Помилка при вилученні";
+$text['message-restore_failed_extract']['vi'] = "Khôi phục thất bại - Lỗi trích xuất";
 
 $text['message-restore_completed']['en-us'] = "Restore Completed";
 $text['message-restore_completed']['ar-eg'] = "";
@@ -140,6 +145,7 @@ $text['message-restore_completed']['ro-ro'] = "";
 $text['message-restore_completed']['ru-ru'] = "Восстановление завершено";
 $text['message-restore_completed']['sv-se'] = "Återställning Genomförd";
 $text['message-restore_completed']['uk-ua'] = "Відновлено";
+$text['message-restore_completed']['vi'] = "Khôi phục thành công";
 
 $text['message-backup_failed_paths']['en-us'] = "Backup Failed - No Backup Paths Defined";
 $text['message-backup_failed_paths']['ar-eg'] = "";
@@ -160,6 +166,7 @@ $text['message-backup_failed_paths']['ro-ro'] = "";
 $text['message-backup_failed_paths']['ru-ru'] = "Ошибка - Не указаны пути сохранения резервной копии";
 $text['message-backup_failed_paths']['sv-se'] = "Backup misslyckades - Ingen Backup Sökväg Definierad";
 $text['message-backup_failed_paths']['uk-ua'] = "Помилка: не вказано шлях для збереження файлу резервної копії";
+$text['message-backup_failed_paths']['vi'] = "Khôi phục thất bại - Không có đường dẫn sao lưu xác định";
 
 $text['message-backup_failed_format']['en-us'] = "Backup Failed - Unable to Create Backup File";
 $text['message-backup_failed_format']['ar-eg'] = "";
@@ -180,6 +187,7 @@ $text['message-backup_failed_format']['ro-ro'] = "";
 $text['message-backup_failed_format']['ru-ru'] = "Ошибка - Невозможно создать файл резервной копии";
 $text['message-backup_failed_format']['sv-se'] = "Backup misslyckades - Kunde Inte Skapa Backup Fil";
 $text['message-backup_failed_format']['uk-ua'] = "Помилка: неможливо створити файл резервної копії";
+$text['message-backup_failed_format']['vi'] = "Khôi phục thất bại - Không thể tạo tệp sao lưu";
 
 $text['label-target_type']['en-us'] = "Target Type";
 $text['label-target_type']['ar-eg'] = "";
@@ -200,6 +208,7 @@ $text['label-target_type']['ro-ro'] = "";
 $text['label-target_type']['ru-ru'] = "Тип";
 $text['label-target_type']['sv-se'] = "Mål Typ";
 $text['label-target_type']['uk-ua'] = "Призначення";
+$text['label-target_type']['vi'] = "Loại mục tiêu";
 
 $text['label-source_paths']['en-us'] = "Source Paths";
 $text['label-source_paths']['ar-eg'] = "";
@@ -220,6 +229,7 @@ $text['label-source_paths']['ro-ro'] = "";
 $text['label-source_paths']['ru-ru'] = "Объекты резервного копирования";
 $text['label-source_paths']['sv-se'] = "Källa Sökväg";
 $text['label-source_paths']['uk-ua'] = "Об’єкти для резервного копіювання";
+$text['label-source_paths']['vi'] = "Đường dẫn nguồn";
 
 $text['label-select_backup']['en-us'] = "Select Backup File";
 $text['label-select_backup']['ar-eg'] = "";
@@ -240,6 +250,7 @@ $text['label-select_backup']['ro-ro'] = "";
 $text['label-select_backup']['ru-ru'] = "Выберите файл резервной копии";
 $text['label-select_backup']['sv-se'] = "Välj Backup Fil";
 $text['label-select_backup']['uk-ua'] = "Виберіть файл резервної копії";
+$text['label-select_backup']['vi'] = "Chọn tệp sao lưu";
 
 $text['label-file_format']['en-us'] = "File Format";
 $text['label-file_format']['ar-eg'] = "";
@@ -260,6 +271,7 @@ $text['label-file_format']['ro-ro'] = "";
 $text['label-file_format']['ru-ru'] = "Формат файла";
 $text['label-file_format']['sv-se'] = "Filformat";
 $text['label-file_format']['uk-ua'] = "Формат файлу";
+$text['label-file_format']['vi'] = "Định dạng tệp tin";
 
 $text['label-command']['en-us'] = "Command";
 $text['label-command']['ar-eg'] = "";
@@ -300,6 +312,7 @@ $text['header-restore']['ro-ro'] = "";
 $text['header-restore']['ru-ru'] = "Восстановление";
 $text['header-restore']['sv-se'] = "Återställ";
 $text['header-restore']['uk-ua'] = "Відновлення";
+$text['header-restore']['vi'] = "Khôi phục";
 
 $text['header-backup']['en-us'] = "Backup";
 $text['header-backup']['ar-eg'] = "";
@@ -320,6 +333,7 @@ $text['header-backup']['ro-ro'] = "";
 $text['header-backup']['ru-ru'] = "Резервная копия";
 $text['header-backup']['sv-se'] = "Backup";
 $text['header-backup']['uk-ua'] = "Резервна копія";
+$text['header-backup']['vi'] = "Sao lưu";
 
 $text['description-restore_warning']['en-us'] = "Warning: Existing files, if any, will be overwritten.";
 $text['description-restore_warning']['ar-eg'] = "";
@@ -340,6 +354,7 @@ $text['description-restore_warning']['ro-ro'] = "";
 $text['description-restore_warning']['ru-ru'] = "Внимание! Существующие файлы будут перезаписаны.";
 $text['description-restore_warning']['sv-se'] = "Varning: Befintliga filer, om någon, kommer att skrivas över.";
 $text['description-restore_warning']['uk-ua'] = "Увага! Файли, які вже існують, будуть перезаписані.";
+$text['description-restore_warning']['vi'] = "Cảnh báo: Tệp tin đã tồn tại , nếu có , sẽ bị ghi đè.";
 
 $text['description-restore']['en-us'] = "To restore a backup from a file on your local system, click 'Browse' then select the desired backup file (eg. 'backup_[YYMMDD]_[HHMMSS].tgz'), then click the 'Restore' button.";
 $text['description-restore']['ar-eg'] = "";
@@ -400,5 +415,6 @@ $text['button-generate']['ro-ro'] = "";
 $text['button-generate']['ru-ru'] = "Сгенерировать";
 $text['button-generate']['sv-se'] = "Generera";
 $text['button-generate']['uk-ua'] = "Згенерувати";
+$text['button-generate']['vi'] = "Tạo";
 
 ?>

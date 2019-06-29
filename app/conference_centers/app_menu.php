@@ -20,6 +20,7 @@
 	$apps[$x]['menu'][$y]['title']['ru-ru'] = "Конференц-центр";
 	$apps[$x]['menu'][$y]['title']['sv-se'] = "Konferenscenter";
 	$apps[$x]['menu'][$y]['title']['uk-ua'] = "Конференц-центр";
+	$apps[$x]['menu'][$y]['title']['vi'] = "Trung tâm hội nghị";
 	$apps[$x]['menu'][$y]['uuid'] = "95f88726-4706-43f0-b52b-9504a0b8046f";
 	$apps[$x]['menu'][$y]['parent_uuid'] = "fd29e39c-c936-f5fc-8e2b-611681b266b5";
 	$apps[$x]['menu'][$y]['category'] = "internal";

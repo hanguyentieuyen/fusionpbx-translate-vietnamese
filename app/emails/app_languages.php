@@ -20,6 +20,7 @@ $text['title-view_email']['ro-ro'] = "";
 $text['title-view_email']['ru-ru'] = "Просмотр Электронной Почты";
 $text['title-view_email']['sv-se'] = "Visa E-post";
 $text['title-view_email']['uk-ua'] = "";
+$text['title-view_email']['vi'] = "Xem Email";
 
 $text['title-emails']['en-us'] = "Emails";
 $text['title-emails']['ar-eg'] = "";
@@ -40,6 +41,7 @@ $text['title-emails']['ro-ro'] = "";
 $text['title-emails']['ru-ru'] = "Электронная Почта";
 $text['title-emails']['sv-se'] = "E-post";
 $text['title-emails']['uk-ua'] = "";
+$text['title-emails']['vi'] = "Email";
 
 $text['message-resend_failed']['en-us'] = "Resend Failed";
 $text['message-resend_failed']['ar-eg'] = "";
@@ -60,6 +62,7 @@ $text['message-resend_failed']['ro-ro'] = "";
 $text['message-resend_failed']['ru-ru'] = "Повторная отправка не удалась";
 $text['message-resend_failed']['sv-se'] = "Skicka Misslyckade Igen";
 $text['message-resend_failed']['uk-ua'] = "";
+$text['message-resend_failed']['vi'] = "Gửi lại không thành công";
 
 $text['message-message_resent']['en-us'] = "Message Resent";
 $text['message-message_resent']['ar-eg'] = "";
@@ -80,6 +83,7 @@ $text['message-message_resent']['ro-ro'] = "";
 $text['message-message_resent']['ru-ru'] = "Это сообщение было отправлено повторно";
 $text['message-message_resent']['sv-se'] = "Meddelande Skickades";
 $text['message-message_resent']['uk-ua'] = "";
+$text['message-message_resent']['vi'] = "Gửi lại tin nhắn";
 
 $text['message-invalid_email']['en-us'] = "Invalid Email";
 $text['message-invalid_email']['ar-eg'] = "";
@@ -100,6 +104,7 @@ $text['message-invalid_email']['ro-ro'] = "";
 $text['message-invalid_email']['ru-ru'] = "Несуществующий адрес электронной почты";
 $text['message-invalid_email']['sv-se'] = "Ogiltig E-postadress";
 $text['message-invalid_email']['uk-ua'] = "";
+$text['message-invalid_email']['vi'] = "Email không hợp lệ";
 
 $text['message-decoding_error']['en-us'] = "MIME Message Decoding Error";
 $text['message-decoding_error']['ar-eg'] = "";
@@ -120,6 +125,7 @@ $text['message-decoding_error']['ro-ro'] = "";
 $text['message-decoding_error']['ru-ru'] = "Ошибка декодирования MIME сообщения";
 $text['message-decoding_error']['sv-se'] = "MIME Message Decoding Erro";
 $text['message-decoding_error']['uk-ua'] = "";
+$text['message-decoding_error']['vi'] = "Lỗi giải mã tin nhắn MIME";
 
 $text['label-type_voicemail']['en-us'] = "Voicemail";
 $text['label-type_voicemail']['ar-eg'] = "";
@@ -140,6 +146,7 @@ $text['label-type_voicemail']['ro-ro'] = "";
 $text['label-type_voicemail']['ru-ru'] = "Голосовая Почта";
 $text['label-type_voicemail']['sv-se'] = "Röstbrevlåda";
 $text['label-type_voicemail']['uk-ua'] = "";
+$text['label-type_voicemail']['vi'] = "Thư thoại";
 
 $text['label-type_email2fax']['en-us'] = "Email to fax report";
 $text['label-type_email2fax']['ar-eg'] = "";
@@ -160,6 +167,7 @@ $text['label-type_email2fax']['ro-ro'] = "";
 $text['label-type_email2fax']['ru-ru'] = "Отчет Электронной Почты на факс";
 $text['label-type_email2fax']['sv-se'] = "E-post till fax rapport";
 $text['label-type_email2fax']['uk-ua'] = "";
+$text['label-type_email2fax']['vi'] = "Email để báo cáo fax";
 
 $text['label-type']['en-us'] = "Type";
 $text['label-type']['ar-eg'] = "";
@@ -180,6 +188,7 @@ $text['label-type']['ro-ro'] = "";
 $text['label-type']['ru-ru'] = "Тип";
 $text['label-type']['sv-se'] = "Typ";
 $text['label-type']['uk-ua'] = "";
+$text['label-type']['vi'] = "Loại";
 
 $text['label-to']['en-us'] = "To";
 $text['label-to']['ar-eg'] = "";
@@ -200,6 +209,7 @@ $text['label-to']['ro-ro'] = "";
 $text['label-to']['ru-ru'] = "To";
 $text['label-to']['sv-se'] = "Till";
 $text['label-to']['uk-ua'] = "";
+$text['label-to']['vi'] = "Đến";
 
 $text['label-subject']['en-us'] = "Subject";
 $text['label-subject']['ar-eg'] = "";
@@ -220,6 +230,7 @@ $text['label-subject']['ro-ro'] = "";
 $text['label-subject']['ru-ru'] = "Предмет";
 $text['label-subject']['sv-se'] = "Ämne";
 $text['label-subject']['uk-ua'] = "";
+$text['label-subject']['vi'] = "Chủ đề";
 
 $text['label-status_failed']['en-us'] = "Failed";
 $text['label-status_failed']['ar-eg'] = "";
@@ -240,6 +251,7 @@ $text['label-status_failed']['ro-ro'] = "";
 $text['label-status_failed']['ru-ru'] = "Не удалось";
 $text['label-status_failed']['sv-se'] = "Misslyckades";
 $text['label-status_failed']['uk-ua'] = "";
+$text['label-status_failed']['vi'] = "Lỗi";
 
 $text['label-status']['en-us'] = "Status";
 $text['label-status']['ar-eg'] = "";
@@ -260,6 +272,7 @@ $text['label-status']['ro-ro'] = "";
 $text['label-status']['ru-ru'] = "Статус";
 $text['label-status']['sv-se'] = "Status";
 $text['label-status']['uk-ua'] = "";
+$text['label-status']['vi'] = "Trạng thái";
 
 $text['label-sent']['en-us'] = "Sent";
 $text['label-sent']['ar-eg'] = "";
@@ -280,6 +293,7 @@ $text['label-sent']['ro-ro'] = "";
 $text['label-sent']['ru-ru'] = "Отправленный";
 $text['label-sent']['sv-se'] = "Skickat";
 $text['label-sent']['uk-ua'] = "";
+$text['label-sent']['vi'] = "Gửi";
 
 $text['label-resend']['en-us'] = "Resend";
 $text['label-resend']['ar-eg'] = "";
@@ -300,6 +314,7 @@ $text['label-resend']['ro-ro'] = "";
 $text['label-resend']['ru-ru'] = "Отправить";
 $text['label-resend']['sv-se'] = "Skicka Igen";
 $text['label-resend']['uk-ua'] = "";
+$text['label-resend']['vi'] = "Gửi lại";
 
 $text['label-reference_cdr']['en-us'] = "CDR";
 $text['label-reference_cdr']['ar-eg'] = "";
@@ -320,6 +335,7 @@ $text['label-reference_cdr']['ro-ro'] = "";
 $text['label-reference_cdr']['ru-ru'] = "CDR - История Вызовов";
 $text['label-reference_cdr']['sv-se'] = "CDR";
 $text['label-reference_cdr']['uk-ua'] = "";
+$text['label-reference_cdr']['vi'] = "CDR";
 
 $text['label-reference']['en-us'] = "Reference";
 $text['label-reference']['ar-eg'] = "";
@@ -340,6 +356,7 @@ $text['label-reference']['ro-ro'] = "";
 $text['label-reference']['ru-ru'] = "Справка";
 $text['label-reference']['sv-se'] = "Referens";
 $text['label-reference']['uk-ua'] = "";
+$text['label-reference']['vi'] = "Tài liệu tham khảo";
 
 $text['label-message_view']['en-us'] = "View";
 $text['label-message_view']['ar-eg'] = "";
@@ -360,6 +377,7 @@ $text['label-message_view']['ro-ro'] = "";
 $text['label-message_view']['ru-ru'] = "Посмотреть";
 $text['label-message_view']['sv-se'] = "Visa";
 $text['label-message_view']['uk-ua'] = "";
+$text['label-message_view']['vi'] = "Xem";
 
 $text['label-message']['en-us'] = "Message";
 $text['label-message']['ar-eg'] = "";
@@ -380,6 +398,7 @@ $text['label-message']['ro-ro'] = "";
 $text['label-message']['ru-ru'] = "Сообщение";
 $text['label-message']['sv-se'] = "Meddelande";
 $text['label-message']['uk-ua'] = "";
+$text['label-message']['vi'] = "Tin nhắn";
 
 $text['label-from']['en-us'] = "From";
 $text['label-from']['ar-eg'] = "";
@@ -400,6 +419,7 @@ $text['label-from']['ro-ro'] = "";
 $text['label-from']['ru-ru'] = "Из";
 $text['label-from']['sv-se'] = "Från";
 $text['label-from']['uk-ua'] = "";
+$text['label-from']['vi'] = "Từ";
 
 $text['label-download']['en-us'] = "Download";
 $text['label-download']['ar-eg'] = "";
@@ -420,6 +440,7 @@ $text['label-download']['ro-ro'] = "";
 $text['label-download']['ru-ru'] = "Загрузить";
 $text['label-download']['sv-se'] = "Ladda Ned";
 $text['label-download']['uk-ua'] = "";
+$text['label-download']['vi'] = "Tải xuống";
 
 $text['label-attachment']['en-us'] = "Attachment";
 $text['label-attachment']['ar-eg'] = "";
@@ -440,6 +461,7 @@ $text['label-attachment']['ro-ro'] = "";
 $text['label-attachment']['ru-ru'] = "Приложение";
 $text['label-attachment']['sv-se'] = "Bifogat";
 $text['label-attachment']['uk-ua'] = "";
+$text['label-attachment']['vi'] = "Đính kèm";
 
 $text['header-view_email']['en-us'] = "View Email";
 $text['header-view_email']['ar-eg'] = "";
@@ -460,6 +482,7 @@ $text['header-view_email']['ro-ro'] = "";
 $text['header-view_email']['ru-ru'] = "Просмотр Электронной Почты";
 $text['header-view_email']['sv-se'] = "Visa E-post";
 $text['header-view_email']['uk-ua'] = "";
+$text['header-view_email']['vi'] = "Xem Email";
 
 $text['header-emails']['en-us'] = "Emails";
 $text['header-emails']['ar-eg'] = "";
@@ -480,6 +503,7 @@ $text['header-emails']['ro-ro'] = "";
 $text['header-emails']['ru-ru'] = "Сообщения Электронной Почты";
 $text['header-emails']['sv-se'] = "E-post";
 $text['header-emails']['uk-ua'] = "";
+$text['header-emails']['vi'] = "Email";
 
 $text['description-emails']['en-us'] = "Manage failed email messages.";
 $text['description-emails']['ar-eg'] = "";
@@ -500,6 +524,7 @@ $text['description-emails']['ro-ro'] = "";
 $text['description-emails']['ru-ru'] = "Управление ошибочными сообщениями электронной почты.";
 $text['description-emails']['sv-se'] = "Hantera misslyckade e-post meddelanden.";
 $text['description-emails']['uk-ua'] = "";
+$text['description-emails']['vi'] = "Quản lý thư email thất bại.";
 
 $text['button-resend']['en-us'] = "Resend";
 $text['button-resend']['ar-eg'] = "";
@@ -520,5 +545,6 @@ $text['button-resend']['ro-ro'] = "";
 $text['button-resend']['ru-ru'] = "Повторно Отправить";
 $text['button-resend']['sv-se'] = "Skicka Igen";
 $text['button-resend']['uk-ua'] = "";
+$text['button-resend']['vi'] = "Gửi lại";
 
 ?>

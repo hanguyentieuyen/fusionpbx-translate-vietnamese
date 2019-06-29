@@ -21,6 +21,7 @@ $text['theme-label-logout']['ru-ru'] = "Выйти";
 $text['theme-label-logout']['sv-se'] = "Logga Ut";
 $text['theme-label-logout']['uk-ua'] = "вийти";
 $text['theme-label-logout']['tr-tr'] = "Oturumu Kapat";
+$text['theme-label-logout']['vi'] = "Đăng xuất";
 
 $text['theme-confirm-logout']['en-us'] = "Do you really want to logout?";
 $text['theme-confirm-logout']['ar-eg'] = "";
@@ -42,6 +43,7 @@ $text['theme-confirm-logout']['ru-ru'] = "Вы действительно хот
 $text['theme-confirm-logout']['sv-se'] = "Vill du verkligen vill logga ut?";
 $text['theme-confirm-logout']['uk-ua'] = "Ви дійсно хочете вийти?";
 $text['theme-confirm-logout']['tr-tr'] = "Çıkmak istediğinize emin misiniz?";
+$text['theme-confirm-logout']['vi'] = "Bạn thực sự muốn đăng xuất?";
 
 $text['theme-label-open_selector']['en-us'] = "Domain Selector [ESC]";
 $text['theme-label-open_selector']['ar-eg'] = "";
@@ -84,6 +86,7 @@ $text['theme-title-domains']['ru-ru'] = "Домены";
 $text['theme-title-domains']['sv-se'] = "Domäner";
 $text['theme-title-domains']['uk-ua'] = "Домени";
 $text['theme-title-domains']['tr-tr'] = "Alan Adları";
+$text['theme-title-domains']['vi'] = "Tên miền";
 
 $text['theme-button-close']['en-us'] = "Close";
 $text['theme-button-close']['ar-eg'] = "";
@@ -105,6 +108,7 @@ $text['theme-button-close']['ru-ru'] = "Закрыть";
 $text['theme-button-close']['sv-se'] = "Stänga";
 $text['theme-button-close']['uk-ua'] = "Близько";
 $text['theme-button-close']['tr-tr'] = "Kapat";
+$text['theme-button-close']['vi'] = "Đóng";
 
 
 $text['theme-label-search']['en-us'] = "Search...";
@@ -127,6 +131,7 @@ $text['theme-label-search']['ru-ru'] = "Поиск...";
 $text['theme-label-search']['sv-se'] = "Sök...";
 $text['theme-label-search']['uk-ua'] = "Пошук...";
 $text['theme-label-search']['tr-tr'] = "Arama...";
+$text['theme-label-search']['vi'] = "Tìm kiếm...";
 
 $text['theme-label-copyright']['en-us'] = "Copyright";
 $text['theme-label-copyright']['ar-eg'] = "";

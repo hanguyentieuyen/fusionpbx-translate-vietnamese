@@ -20,6 +20,7 @@
 	$apps[$x]['menu'][$y]['title']['ru-ru'] = "Электронная почта";
 	$apps[$x]['menu'][$y]['title']['sv-se'] = "E-post";
 	$apps[$x]['menu'][$y]['title']['uk-ua'] = "";
+	$apps[$x]['menu'][$y]['title']['vi'] = "Email";
 	$apps[$x]['menu'][$y]['uuid'] = "1c2b9569-975f-4b82-9378-f3c5b63991e2";
 	$apps[$x]['menu'][$y]['parent_uuid'] = "0438b504-8613-7887-c420-c837ffb20cb1";
 	$apps[$x]['menu'][$y]['category'] = "internal";

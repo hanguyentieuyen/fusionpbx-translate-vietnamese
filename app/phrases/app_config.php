@@ -28,7 +28,7 @@
 		$apps[$x]['description']['ru-ru'] = "";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
-
+		$apps[$x]['description']['vi'] = "Quản lý nhóm từ được sử dụng chủ yếu với IVR.";
 	//destination details
 		$y=0;
 		$apps[$x]['destinations'][$y]['type'] = "sql";

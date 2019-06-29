@@ -27,7 +27,7 @@
 		$apps[$x]['description']['ru-ru'] = "";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
-
+		$apps[$x]['description']['vi'] = "Thêm, Xóa, hoặc Phát file nhạc chờ.";
 	//permission details
 		$y=0;
 		$apps[$x]['permissions'][$y]['name'] = "music_on_hold_view";

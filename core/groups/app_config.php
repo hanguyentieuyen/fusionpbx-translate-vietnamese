@@ -27,6 +27,7 @@
 		$apps[$x]['description']['ru-ru'] = "Управление группами пользователей и уровнями доступа";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
+		$apps[$x]['description']['vi'] = "Quản lý nhóm người dùng và quyền.";
 
 	//permission details
 		$y=0;

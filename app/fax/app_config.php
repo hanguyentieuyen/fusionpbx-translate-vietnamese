@@ -27,7 +27,7 @@
 		$apps[$x]['description']['ru-ru'] = "Чтобы принять факс, добавьте внутренний номер для факсов и направьте входящий вызовы на выделенный номер, или вы можете обнаружить FAX-тон, используя вкладку 'Общие'.";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
-
+		$apps[$x]['description']['vi'] = "Để nhận cài đặt FAX, tiện ích mở rộng fax và sau đó điều hướng FAX đến bằng một số chuyên dụng hoặc bạn có thể phát hiện âm FAX bằng cách sử dụng trên tab Công khai.";
 	//destination details
 		$y=0;
 		$apps[$x]['destinations'][$y]['type'] = "sql";

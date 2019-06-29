@@ -27,6 +27,7 @@
 		$apps[$x]['description']['ru-ru'] = "";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
+		$apps[$x]['description']['vi'] = "Script Editor có thể được sử dụng để chỉnh sửa lua, javascript hoặc các tập lệnh khác.";
 
 	//permission details
 		$y=0;

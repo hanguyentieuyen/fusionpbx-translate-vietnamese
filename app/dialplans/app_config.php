@@ -27,7 +27,8 @@
 		$apps[$x]['description']['ru-ru'] = "";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
-
+		$apps[$x]['description']['vi'] = "Quay số được sử dụng để thiết lập các điểm đến cuộc gọi dựa trên các điều kiện và bối cảnh. Bạn có thể sử dụng quay số để gửi các cuộc gọi đến cổng, tiếp viên tự động, số bên ngoài, tới tập lệnh hoặc bất kỳ đích nào.";
+		
 	//permission details
 		$y=0;
 		$apps[$x]['permissions'][$y]['name'] = "dialplan_view";

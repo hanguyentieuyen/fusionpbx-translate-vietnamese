@@ -27,7 +27,8 @@
 		$apps[$x]['description']['ru-ru'] = "";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
-
+		$apps[$x]['description']['vi'] = "Hàng chờ để quản lý các cuộc gọi hướng vào và định tuyến các cuộc gọi đó đến các agent có sẵn.";
+		
 	//destination details
 		$y=0;
 		$apps[$x]['destinations'][$y]['type'] = "sql";

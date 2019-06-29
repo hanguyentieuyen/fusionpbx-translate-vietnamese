@@ -20,6 +20,7 @@ $text['title-operator_panel']['ro-ro'] = "";
 $text['title-operator_panel']['ru-ru'] = "Панель Оператора";
 $text['title-operator_panel']['sv-se'] = "Telefonist Panel";
 $text['title-operator_panel']['uk-ua'] = "ÐŸÐ°Ð½ÐµÐ»ÑŒ Ð¾Ð¿ÐµÑ€Ð°Ñ‚Ð¾Ñ€Ð°";
+$text['title-operator_panel']['vi'] = "Bảng điều khiển";
 
 $text['label-status_on_demand']['en-us'] = "On Demand";
 $text['label-status_on_demand']['ar-eg'] = "";
@@ -40,6 +41,7 @@ $text['label-status_on_demand']['ro-ro'] = "";
 $text['label-status_on_demand']['ru-ru'] = "По требованию";
 $text['label-status_on_demand']['sv-se'] = "På Begäran";
 $text['label-status_on_demand']['uk-ua'] = "ÐÐ° Ð²Ð¸Ð¼Ð¾Ð³Ñƒ";
+$text['label-status_on_demand']['vi'] = "Theo yêu cầu";
 
 $text['label-status_on_break']['en-us'] = "On Break";
 $text['label-status_on_break']['ar-eg'] = "";
@@ -60,6 +62,7 @@ $text['label-status_on_break']['ro-ro'] = "";
 $text['label-status_on_break']['ru-ru'] = "Пауза";
 $text['label-status_on_break']['sv-se'] = "På Rast";
 $text['label-status_on_break']['uk-ua'] = "ÐÐ° Ð¿ÐµÑ€ÐµÑ€Ð²Ñ–";
+$text['label-status_on_break']['vi'] = "Nghỉ";
 
 $text['label-status_logged_out_or_unknown']['en-us'] = "Logged Out / Unknown";
 $text['label-status_logged_out_or_unknown']['ar-eg'] = "";
@@ -80,6 +83,7 @@ $text['label-status_logged_out_or_unknown']['ro-ro'] = "";
 $text['label-status_logged_out_or_unknown']['ru-ru'] = "Вышел из системы / Неизвестен";
 $text['label-status_logged_out_or_unknown']['sv-se'] = "Utloggad / Okänd";
 $text['label-status_logged_out_or_unknown']['uk-ua'] = "Ð’Ð¸Ð¹ÑˆÐ¾Ð²/Ð½ÐµÐ²Ñ–Ð´Ð¾Ð¼Ð¾";
+$text['label-status_logged_out_or_unknown']['vi'] = "Đã đăng xuất / Không xác định";
 
 $text['label-status_logged_out']['en-us'] = "Logged Out";
 $text['label-status_logged_out']['ar-eg'] = "";
@@ -100,6 +104,7 @@ $text['label-status_logged_out']['ro-ro'] = "";
 $text['label-status_logged_out']['ru-ru'] = "Вышел из системы";
 $text['label-status_logged_out']['sv-se'] = "Utloggad";
 $text['label-status_logged_out']['uk-ua'] = "Ð’Ð¸Ð¹ÑˆÐ¾Ð²";
+$text['label-status_logged_out']['vi'] = "Đã đăng xuất";
 
 $text['label-status_do_not_disturb']['en-us'] = "Do Not Disturb";
 $text['label-status_do_not_disturb']['ar-eg'] = "";
@@ -120,6 +125,7 @@ $text['label-status_do_not_disturb']['ro-ro'] = "";
 $text['label-status_do_not_disturb']['ru-ru'] = "Просьба не беспокоить";
 $text['label-status_do_not_disturb']['sv-se'] = "Stör Ej";
 $text['label-status_do_not_disturb']['uk-ua'] = "ÐÐµ Ñ‚ÑƒÑ€Ð±ÑƒÐ²Ð°Ñ‚Ð¸";
+$text['label-status_do_not_disturb']['vi'] = "Không làm phiền";
 
 $text['label-status_available_on_demand']['en-us'] = "Available (On Demand)";
 $text['label-status_available_on_demand']['ar-eg'] = "";
@@ -140,6 +146,7 @@ $text['label-status_available_on_demand']['ro-ro'] = "";
 $text['label-status_available_on_demand']['ru-ru'] = "Доступен (по требованию)";
 $text['label-status_available_on_demand']['sv-se'] = "Tillgänglig (På Begäran)";
 $text['label-status_available_on_demand']['uk-ua'] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿Ð½Ð¸Ð¹ (Ð½Ð° Ð²Ð¸Ð¼Ð¾Ð³Ñƒ)";
+$text['label-status_available_on_demand']['vi'] = "Có sẵn (Theo yêu cầu)";
 
 $text['label-status_available']['en-us'] = "Available";
 $text['label-status_available']['ar-eg'] = "";
@@ -160,6 +167,7 @@ $text['label-status_available']['ro-ro'] = "";
 $text['label-status_available']['ru-ru'] = "Доступен";
 $text['label-status_available']['sv-se'] = "Tillgänglig";
 $text['label-status_available']['uk-ua'] = "Ð”Ð¾ÑÑ‚ÑƒÐ¿Ð½Ð¸Ð¹";
+$text['label-status_available']['vi'] = "Có sẵn";
 
 $text['label-refresh_pause']['en-us'] = "Pause Refresh";
 $text['label-refresh_pause']['ar-eg'] = "";
@@ -180,6 +188,7 @@ $text['label-refresh_pause']['ro-ro'] = "";
 $text['label-refresh_pause']['ru-ru'] = "Приостановить обновление";
 $text['label-refresh_pause']['sv-se'] = "Paus Uppdatera";
 $text['label-refresh_pause']['uk-ua'] = "ÐŸÑ€Ð¸Ð¿Ð¸Ð½Ð¸Ñ‚Ð¸ Ð¾Ð½Ð¾Ð²Ð»ÐµÐ½Ð½Ñ";
+$text['label-refresh_pause']['vi'] = "Tạm dừng Làm mới";
 
 $text['label-refresh_enable']['en-us'] = "Enable Refresh";
 $text['label-refresh_enable']['ar-eg'] = "";
@@ -200,6 +209,7 @@ $text['label-refresh_enable']['ro-ro'] = "";
 $text['label-refresh_enable']['ru-ru'] = "Включить обновление";
 $text['label-refresh_enable']['sv-se'] = "Aktivera Uppdatering";
 $text['label-refresh_enable']['uk-ua'] = "Ð’ÐºÐ»ÑŽÑ‡Ð¸Ñ‚Ð¸ Ð¾Ð½Ð¾Ð²Ð»ÐµÐ½Ð½Ñ";
+$text['label-refresh_enable']['vi'] = "Kích hoạt Làm mới";
 
 $text['label-recording']['en-us'] = "Recording";
 $text['label-recording']['ar-eg'] = "";
@@ -220,6 +230,7 @@ $text['label-recording']['ro-ro'] = "";
 $text['label-recording']['ru-ru'] = "Запись";
 $text['label-recording']['sv-se'] = "Inspelning";
 $text['label-recording']['uk-ua'] = "Ð—Ð°Ð¿Ð¸Ñ";
+$text['label-recording']['vi'] = "Bản ghi";
 
 $text['label-record']['en-us'] = "Record";
 $text['label-record']['ar-eg'] = "";
@@ -240,6 +251,7 @@ $text['label-record']['ro-ro'] = "";
 $text['label-record']['ru-ru'] = "Воспроизведение";
 $text['label-record']['sv-se'] = "Spela In";
 $text['label-record']['uk-ua'] = "Ð—Ð°Ð¿Ð¸Ñ";
+$text['label-record']['vi'] = "Ghi âm";
 
 $text['label-other_extensions']['en-us'] = "Other Extensions";
 $text['label-other_extensions']['ar-eg'] = "";
@@ -260,6 +272,7 @@ $text['label-other_extensions']['ro-ro'] = "";
 $text['label-other_extensions']['ru-ru'] = "Другие внутренние номера";
 $text['label-other_extensions']['sv-se'] = "Annan Anknytning";
 $text['label-other_extensions']['uk-ua'] = "Ð†Ð½ÑˆÑ– Ñ€Ð¾Ð·ÑˆÐ¸Ñ€ÐµÐ½Ð½Ñ";
+$text['label-other_extensions']['vi'] = "Máy nhánh khác";
 
 $text['label-no_extensions_found']['en-us'] = "No extensions found.";
 $text['label-no_extensions_found']['ar-eg'] = "";
@@ -280,6 +293,7 @@ $text['label-no_extensions_found']['ro-ro'] = "";
 $text['label-no_extensions_found']['ru-ru'] = "Внутренних номеров не найдено.";
 $text['label-no_extensions_found']['sv-se'] = "Ingen anknytning funnen.";
 $text['label-no_extensions_found']['uk-ua'] = "ÐÐµ Ð·Ð½Ð°Ð¹Ð´ÐµÐ½Ð¾ Ñ€Ð¾Ð·ÑˆÐ¸Ñ€ÐµÐ½ÑŒ";
+$text['label-no_extensions_found']['vi'] = "Không tìm thấy máy nhánh.";
 
 $text['label-kill']['en-us'] = "Kill";
 $text['label-kill']['ar-eg'] = "";
@@ -300,6 +314,7 @@ $text['label-kill']['ro-ro'] = "";
 $text['label-kill']['ru-ru'] = "Убить";
 $text['label-kill']['sv-se'] = "Lägg På";
 $text['label-kill']['uk-ua'] = "вбити";
+$text['label-kill']['vi'] = "Kill";
 
 $text['label-eavesdrop']['en-us'] = "Eavesdrop";
 $text['label-eavesdrop']['ar-eg'] = "";
@@ -320,6 +335,7 @@ $text['label-eavesdrop']['ro-ro'] = "";
 $text['label-eavesdrop']['ru-ru'] = "Подслушивать";
 $text['label-eavesdrop']['sv-se'] = "Medlyssning";
 $text['label-eavesdrop']['uk-ua'] = "підслуховувати";
+$text['label-eavesdrop']['vi'] = "Nghe trộm";
 
 $text['label-call_group']['en-us'] = "Call Group";
 $text['label-call_group']['ar-eg'] = "";
@@ -340,6 +356,7 @@ $text['label-call_group']['ro-ro'] = "";
 $text['label-call_group']['ru-ru'] = "Группы вызова";
 $text['label-call_group']['sv-se'] = "Ring Grupp";
 $text['label-call_group']['uk-ua'] = "груповий виклик";
+$text['label-call_group']['vi'] = "Cuộc gọi nhóm";
 
 $text['label-call_direction']['en-us'] = "Call Direction";
 $text['label-call_direction']['ar-eg'] = "";
@@ -360,6 +377,7 @@ $text['label-call_direction']['ro-ro'] = "";
 $text['label-call_direction']['ru-ru'] = "Направление вызова";
 $text['label-call_direction']['sv-se'] = "Samtals Riktning";
 $text['label-call_direction']['uk-ua'] = "напрямок виклику";
+$text['label-call_direction']['vi'] = "Hướng đi của cuộc gọi";
 
 $text['description-eavesdrop_destination']['en-us'] = "Select the Eavesdrop Destination";
 $text['description-eavesdrop_destination']['ar-eg'] = "";
@@ -380,6 +398,7 @@ $text['description-eavesdrop_destination']['ro-ro'] = "";
 $text['description-eavesdrop_destination']['ru-ru'] = "Выберите подслушивание пункта назначения";
 $text['description-eavesdrop_destination']['sv-se'] = "Välj Medlyssning Destination";
 $text['description-eavesdrop_destination']['uk-ua'] = "Виберіть пункт призначення підслуховувати";
+$text['description-eavesdrop_destination']['vi'] = "Chọn điểm đến nghe lén";
 
 $text['button-all']['en-us'] = "All";
 $text['button-all']['ar-eg'] = "";
@@ -400,5 +419,6 @@ $text['button-all']['ro-ro'] = "";
 $text['button-all']['ru-ru'] = "Все";
 $text['button-all']['sv-se'] = "Alla";
 $text['button-all']['uk-ua'] = "Ð’ÑÑ–";
+$text['button-all']['vi'] = "Tất cả";
 
 ?>

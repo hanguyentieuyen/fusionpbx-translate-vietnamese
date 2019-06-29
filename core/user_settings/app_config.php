@@ -27,6 +27,7 @@
 		$apps[$x]['description']['ru-ru'] = "Настройки учетной записи могут быть изменены пользователем";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
+		$apps[$x]['description']['vi'] = "Tài khoản người dùng có thể thay đổi bởi người dùng.";
 
 	//permission details
 		$y=0;

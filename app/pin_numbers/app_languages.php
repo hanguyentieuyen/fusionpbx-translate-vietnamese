@@ -20,6 +20,7 @@ $text['title-pin_numbers']['ro-ro'] = "";
 $text['title-pin_numbers']['ru-ru'] = "PIN Номеров";
 $text['title-pin_numbers']['sv-se'] = "PIN Nummer";
 $text['title-pin_numbers']['uk-ua'] = "";
+$text['title-pin_numbers']['vi'] = "Mã PIN";
 
 $text['title-pin_number']['en-us'] = "PIN Number";
 $text['title-pin_number']['ar-eg'] = "";
@@ -40,6 +41,7 @@ $text['title-pin_number']['ro-ro'] = "";
 $text['title-pin_number']['ru-ru'] = "PIN Номер";
 $text['title-pin_number']['sv-se'] = "PIN Nummer";
 $text['title-pin_number']['uk-ua'] = "";
+$text['title-pin_number']['vi'] = "Mã PIN";
 
 $text['title_description-pin_number']['en-us'] = "List of PIN Numbers and account codes.";
 $text['title_description-pin_number']['ar-eg'] = "";
@@ -60,6 +62,7 @@ $text['title_description-pin_number']['ro-ro'] = "";
 $text['title_description-pin_number']['ru-ru'] = "Список PIN Номеров и Аккаунт кодов.";
 $text['title_description-pin_number']['sv-se'] = "Lista med PIN Nummer och account codes.";
 $text['title_description-pin_number']['uk-ua'] = "";
+$text['title_description-pin_number']['vi'] = "Danh sách mã PIN và mã tài khoản.";
 
 $text['label-pin_number']['en-us'] = "PIN Number";
 $text['label-pin_number']['ar-eg'] = "";
@@ -80,6 +83,7 @@ $text['label-pin_number']['ro-ro'] = "";
 $text['label-pin_number']['ru-ru'] = "PIN Номер";
 $text['label-pin_number']['sv-se'] = "PIN Nummer";
 $text['label-pin_number']['uk-ua'] = "";
+$text['label-pin_number']['vi'] = "Mã PIN";
 
 $text['description-pin_number']['en-us'] = "Enter the PIN number.";
 $text['description-pin_number']['ar-eg'] = "";
@@ -100,6 +104,7 @@ $text['description-pin_number']['ro-ro'] = "";
 $text['description-pin_number']['ru-ru'] = "Введите PIN номер.";
 $text['description-pin_number']['sv-se'] = "Ange PIN NUmret.";
 $text['description-pin_number']['uk-ua'] = "";
+$text['description-pin_number']['vi'] = "Nhập mã PIN.";
 
 $text['label-accountcode']['en-us'] = "Accountcode";
 $text['label-accountcode']['ar-eg'] = "";
@@ -120,6 +125,7 @@ $text['label-accountcode']['ro-ro'] = "";
 $text['label-accountcode']['ru-ru'] = "Код Аккаунта";
 $text['label-accountcode']['sv-se'] = "Accountcode";
 $text['label-accountcode']['uk-ua'] = "";
+$text['label-accountcode']['vi'] = "Mã tài khoản";
 
 $text['description-accountcode']['en-us'] = "Enter the accountcode.";
 $text['description-accountcode']['ar-eg'] = "";
@@ -140,6 +146,7 @@ $text['description-accountcode']['ro-ro'] = "";
 $text['description-accountcode']['ru-ru'] = "Введите код Аккаунта.";
 $text['description-accountcode']['sv-se'] = "Ange Accountcode";
 $text['description-accountcode']['uk-ua'] = "";
+$text['description-accountcode']['vi'] = "Nhập mã tài khoản.";
 
 $text['label-enabled']['en-us'] = "Enabled";
 $text['label-enabled']['ar-eg'] = "";
@@ -160,6 +167,7 @@ $text['label-enabled']['ro-ro'] = "";
 $text['label-enabled']['ru-ru'] = "Включено";
 $text['label-enabled']['sv-se'] = "Aktiverad";
 $text['label-enabled']['uk-ua'] = "";
+$text['label-enabled']['vi'] = "Cho phép";
 
 $text['description-enabled']['en-us'] = "Enable or Disable the PIN Number.";
 $text['description-enabled']['ar-eg'] = "";
@@ -180,6 +188,7 @@ $text['description-enabled']['ro-ro'] = "";
 $text['description-enabled']['ru-ru'] = "Включение и отключение PIN Номера.";
 $text['description-enabled']['sv-se'] = "Aktivera eller inaktivera PIN Nummer.";
 $text['description-enabled']['uk-ua'] = "";
+$text['description-enabled']['vi'] = "Kích hoạt hoặc vô hiệu hóa số PIN.";
 
 $text['label-description']['en-us'] = "Description";
 $text['label-description']['ar-eg'] = "";
@@ -200,6 +209,7 @@ $text['label-description']['ro-ro'] = "";
 $text['label-description']['ru-ru'] = "Описание";
 $text['label-description']['sv-se'] = "Beskrivning";
 $text['label-description']['uk-ua'] = "";
+$text['label-description']['vi'] = "Mô tả";
 
 $text['description-description']['en-us'] = "Enter the description.";
 $text['description-description']['ar-eg'] = "";
@@ -220,6 +230,7 @@ $text['description-description']['ro-ro'] = "";
 $text['description-description']['ru-ru'] = "Введите описание.";
 $text['description-description']['sv-se'] = "Ange beskrivningen.";
 $text['description-description']['uk-ua'] = "";
+$text['description-description']['vi'] = "Nhập mô tả.";
 
 $text['label-true']['en-us'] = "true";
 $text['label-true']['ar-eg'] = "";
@@ -240,6 +251,7 @@ $text['label-true']['ro-ro'] = "";
 $text['label-true']['ru-ru'] = "Да";
 $text['label-true']['sv-se'] = "sann";
 $text['label-true']['uk-ua'] = "";
+$text['label-true']['vi'] = "đúng";
 
 $text['label-false']['en-us'] = "false";
 $text['label-false']['ar-eg'] = "";
@@ -260,6 +272,7 @@ $text['label-false']['ro-ro'] = "";
 $text['label-false']['ru-ru'] = "";
 $text['label-false']['sv-se'] = "falsk";
 $text['label-false']['uk-ua'] = "";
+$text['label-false']['vi'] = "sai";
 
 $text['button-add']['en-us'] = "Add";
 $text['button-add']['ar-eg'] = "";
@@ -280,6 +293,7 @@ $text['button-add']['ro-ro'] = "";
 $text['button-add']['ru-ru'] = "Добавить";
 $text['button-add']['sv-se'] = "Lägg Till";
 $text['button-add']['uk-ua'] = "";
+$text['button-add']['vi'] = "Thêm";
 
 $text['button-edit']['en-us'] = "Edit";
 $text['button-edit']['ar-eg'] = "";
@@ -300,6 +314,7 @@ $text['button-edit']['ro-ro'] = "";
 $text['button-edit']['ru-ru'] = "Редактировать";
 $text['button-edit']['sv-se'] = "Ändra";
 $text['button-edit']['uk-ua'] = "";
+$text['button-edit']['vi'] = "Chỉnh sửa";
 
 $text['button-delete']['en-us'] = "Delete";
 $text['button-delete']['ar-eg'] = "";
@@ -320,6 +335,7 @@ $text['button-delete']['ro-ro'] = "";
 $text['button-delete']['ru-ru'] = "Удалить";
 $text['button-delete']['sv-se'] = "Ta Bort";
 $text['button-delete']['uk-ua'] = "";
+$text['button-delete']['vi'] = "Xóa";
 
 $text['button-save']['en-us'] = "Save";
 $text['button-save']['ar-eg'] = "";
@@ -340,6 +356,7 @@ $text['button-save']['ro-ro'] = "";
 $text['button-save']['ru-ru'] = "Сохранить";
 $text['button-save']['sv-se'] = "Spara";
 $text['button-save']['uk-ua'] = "";
+$text['button-save']['vi'] = "Lưu";
 
 $text['button-view']['en-us'] = "View";
 $text['button-view']['ar-eg'] = "";
@@ -360,6 +377,7 @@ $text['button-view']['ro-ro'] = "";
 $text['button-view']['ru-ru'] = "";
 $text['button-view']['sv-se'] = "Visa";
 $text['button-view']['uk-ua'] = "";
+$text['button-view']['vi'] = "Xem";
 
 $text['button-back']['en-us'] = "Back";
 $text['button-back']['ar-eg'] = "";
@@ -380,6 +398,7 @@ $text['button-back']['ro-ro'] = "";
 $text['button-back']['ru-ru'] = "Назад";
 $text['button-back']['sv-se'] = "Tillbaka";
 $text['button-back']['uk-ua'] = "";
+$text['button-back']['vi'] = "Trở lại";
 
 $text['confirm-delete']['en-us'] = "Do you really want to delete this?";
 $text['confirm-delete']['ar-eg'] = "";
@@ -400,6 +419,7 @@ $text['confirm-delete']['ro-ro'] = "";
 $text['confirm-delete']['ru-ru'] = "Вы действительно хотите удалить это?";
 $text['confirm-delete']['sv-se'] = "Vill du verkligen ta bort detta?";
 $text['confirm-delete']['uk-ua'] = "";
+$text['confirm-delete']['vi'] = "Bạn có thực sự muốn xóa?";
 
 $text['message-add']['en-us'] = "Add Completed";
 $text['message-add']['ar-eg'] = "";
@@ -420,6 +440,7 @@ $text['message-add']['ro-ro'] = "";
 $text['message-add']['ru-ru'] = "Добавление выполнено";
 $text['message-add']['sv-se'] = "Tillagd";
 $text['message-add']['uk-ua'] = "";
+$text['message-add']['vi'] = "Thêm thành công";
 
 $text['message-update']['en-us'] = "Update Completed";
 $text['message-update']['ar-eg'] = "";
@@ -440,6 +461,7 @@ $text['message-update']['ro-ro'] = "";
 $text['message-update']['ru-ru'] = "Обновление завершено";
 $text['message-update']['sv-se'] = "Ändring Utförd";
 $text['message-update']['uk-ua'] = "";
+$text['message-update']['vi'] = "Cập nhật thành công";
 
 $text['message-delete']['en-us'] = "Delete Completed";
 $text['message-delete']['ar-eg'] = "";
@@ -460,6 +482,7 @@ $text['message-delete']['ro-ro'] = "";
 $text['message-delete']['ru-ru'] = "Удаление завершено";
 $text['message-delete']['sv-se'] = "Borttagen";
 $text['message-delete']['uk-ua'] = "";
+$text['message-delete']['vi'] = "Xóa thành công";
 
 $text['message-required']['en-us'] = "Please provide: ";
 $text['message-required']['ar-eg'] = "";
@@ -480,5 +503,6 @@ $text['message-required']['ro-ro'] = "";
 $text['message-required']['ru-ru'] = "Пожалуйста предоставьте: ";
 $text['message-required']['sv-se'] = "Var god ange: ";
 $text['message-required']['uk-ua'] = "";
+$text['message-required']['vi'] = "Vui lòng cung cấp: ";
 
 ?>

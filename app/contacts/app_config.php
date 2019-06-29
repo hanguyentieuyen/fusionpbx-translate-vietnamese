@@ -27,7 +27,7 @@
 		$apps[$x]['description']['ru-ru'] = "";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
-
+		$apps[$x]['description']['vi'] = "Cung cấp một nơi để lưu trữ thông tin liên lạc cho các cá nhân và tổ chức.";
 	//permission details
 		$y=0;
 		$apps[$x]['permissions'][$y]['name'] = "contact_view";

@@ -20,6 +20,7 @@ $text['title-devices']['ro-ro'] = "";
 $text['title-devices']['ru-ru'] = "Устройства";
 $text['title-devices']['sv-se'] = "Enheter";
 $text['title-devices']['uk-ua'] = "Пристрої";
+$text['title-devices']['vi'] = "Thiết bị";
 
 $text['title-profiles']['en-us'] = "Profiles";
 $text['title-profiles']['ar-eg'] = "";
@@ -80,6 +81,7 @@ $text['title-device_keys']['ro-ro'] = "";
 $text['title-device_keys']['ru-ru'] = "Кнопки клавиатуры";
 $text['title-device_keys']['sv-se'] = "Enhets Knappar";
 $text['title-device_keys']['uk-ua'] = "";
+$text['title-device_keys']['vi'] = "Khóa thiết bị";
 
 $text['title-device_key']['en-us'] = "Device Key";
 $text['title-device_key']['ar-eg'] = "";
@@ -100,6 +102,7 @@ $text['title-device_key']['ro-ro'] = "";
 $text['title-device_key']['ru-ru'] = "Кнопка клавиатуры";
 $text['title-device_key']['sv-se'] = "Enhets Knapp";
 $text['title-device_key']['uk-ua'] = "";
+$text['title-device_key']['vi'] = "Khóa thiết bị";
 
 $text['select-global']['en-us'] = "Global";
 $text['select-global']['ar-eg'] = "";
@@ -120,6 +123,7 @@ $text['select-global']['ro-ro'] = "";
 $text['select-global']['ru-ru'] = "Глобально";
 $text['select-global']['sv-se'] = "Global";
 $text['select-global']['uk-ua'] = "";
+$text['select-global'][''] = "Toàn cầu";
 
 $text['message_device']['en-us'] = "Enter the new MAC Address.";
 $text['message_device']['ar-eg'] = "";
@@ -140,6 +144,7 @@ $text['message_device']['ro-ro'] = "";
 $text['message_device']['ru-ru'] = "Введите новый MAC-адрес.";
 $text['message_device']['sv-se'] = "Fyll i den nya MAC-adressen.";
 $text['message_device']['uk-ua'] = "Введіть нову MAC адресу";
+$text['message_device']['vi'] = "Nhập địa chỉ MAC mới.";
 
 $text['message-maximum_devices']['en-us'] = "Maximum Devices:";
 $text['message-maximum_devices']['ar-eg'] = "";
@@ -160,6 +165,7 @@ $text['message-maximum_devices']['ro-ro'] = "";
 $text['message-maximum_devices']['ru-ru'] = "Максимальное количество устройств:";
 $text['message-maximum_devices']['sv-se'] = "Max Antal Enheter";
 $text['message-maximum_devices']['uk-ua'] = "Максимальна кількість пристроїв";
+$text['message-maximum_devices']['vi'] = "Thiết bị tối đa:";
 
 $text['message-duplicate_username']['en-us'] = "Duplicate Username Detected";
 $text['message-duplicate_username']['ar-eg'] = "";
@@ -180,6 +186,7 @@ $text['message-duplicate_username']['ro-ro'] = "";
 $text['message-duplicate_username']['ru-ru'] = "Обнаружено повторяющееся имя пользователя";
 $text['message-duplicate_username']['sv-se'] = "Duplicera Användarnamn upptäckt";
 $text['message-duplicate_username']['uk-ua'] = "Виявлено дублікат імені користувача";
+$text['message-duplicate_username']['vi'] = "Phát hiện tên người dùng trùng lặp";
 
 $text['message-duplicate']['en-us'] = "Duplicate Detected";
 $text['message-duplicate']['ar-eg'] = "";
@@ -200,6 +207,7 @@ $text['message-duplicate']['ro-ro'] = "";
 $text['message-duplicate']['ru-ru'] = "Обнаружено дублирование";
 $text['message-duplicate']['sv-se'] = "Dubblett Upptäckt";
 $text['message-duplicate']['uk-ua'] = "Знайдено дублікат";
+$text['message-duplicate']['vi'] = "Phát hiện trùng lặp";
 
 $text['label-zero_sp_touch']['en-us'] = "Zero-Sp-Touch";
 $text['label-zero_sp_touch']['ar-eg'] = "";
@@ -260,6 +268,7 @@ $text['label-xml_directory']['ro-ro'] = "";
 $text['label-xml_directory']['ru-ru'] = "Каталог XML";
 $text['label-xml_directory']['sv-se'] = "Katalog";
 $text['label-xml_directory']['uk-ua'] = "";
+$text['label-xml_directory']['vi'] = "Đường dẫn XML";
 
 $text['label-xml_phonebook']['en-us'] = "XML Phonebook";
 $text['label-xml_phonebook']['ar-eg'] = "";
@@ -280,6 +289,7 @@ $text['label-xml_phonebook']['ro-ro'] = "";
 $text['label-xml_phonebook']['ru-ru'] = "Адресная книга XML";
 $text['label-xml_phonebook']['sv-se'] = "XML Telefonbok";
 $text['label-xml_phonebook']['uk-ua'] = "";
+$text['label-xml_phonebook']['vi'] = "Danh bạ XML";
 
 $text['label-xml_group']['en-us'] = "XML Group";
 $text['label-xml_group']['ar-eg'] = "";
@@ -300,6 +310,7 @@ $text['label-xml_group']['ro-ro'] = "";
 $text['label-xml_group']['ru-ru'] = "Группы XML";
 $text['label-xml_group']['sv-se'] = "XML Grupp";
 $text['label-xml_group']['uk-ua'] = "";
+$text['label-xml_group']['vi'] = "Nhóm XML";
 
 $text['label-xml_browser']['en-us'] = "XML Browser";
 $text['label-xml_browser']['ar-eg'] = "";
@@ -320,6 +331,7 @@ $text['label-xml_browser']['ro-ro'] = "";
 $text['label-xml_browser']['ru-ru'] = "Просмотр XML";
 $text['label-xml_browser']['sv-se'] = "XML Browser";
 $text['label-xml_browser']['uk-ua'] = "";
+$text['label-xml_browser']['vi'] = "Trình duyệt XML";
 
 $text['label-voicemail']['en-us'] = "Voicemail";
 $text['label-voicemail']['ar-eg'] = "البريد الصوتي";
@@ -340,6 +352,7 @@ $text['label-voicemail']['ro-ro'] = "";
 $text['label-voicemail']['ru-ru'] = "Голосовая почта";
 $text['label-voicemail']['sv-se'] = "Röstbrevlåda";
 $text['label-voicemail']['uk-ua'] = "Голосова пошта";
+$text['label-voicemail']['vi'] = "Thư thoại";
 
 $text['label-user']['en-us'] = "User";
 $text['label-user']['ar-eg'] = "";
@@ -360,6 +373,7 @@ $text['label-user']['ro-ro'] = "";
 $text['label-user']['ru-ru'] = "Пользователь";
 $text['label-user']['sv-se'] = "Användare";
 $text['label-user']['uk-ua'] = "Користувачі";
+$text['label-user']['vi'] = "Người dùng";
 
 $text['label-user_id']['en-us'] = "User ID";
 $text['label-user_id']['ar-eg'] = "";
@@ -380,6 +394,7 @@ $text['label-user_id']['ro-ro'] = "";
 $text['label-user_id']['ru-ru'] = "ID пользователя";
 $text['label-user_id']['sv-se'] = "Användar ID";
 $text['label-user_id']['uk-ua'] = "";
+$text['label-user_id']['vi'] = "ID người dùng";
 
 $text['label-url_record']['en-us'] = "URL Record";
 $text['label-url_record']['ar-eg'] = "";
@@ -400,6 +415,7 @@ $text['label-url_record']['ro-ro'] = "";
 $text['label-url_record']['ru-ru'] = "URL записей";
 $text['label-url_record']['sv-se'] = "URL Post";
 $text['label-url_record']['uk-ua'] = "";
+$text['label-url_record']['vi'] = "URL Ghi âm";
 
 $text['label-url']['en-us'] = "URL";
 $text['label-url']['ar-eg'] = "URL";
@@ -440,6 +456,7 @@ $text['label-transfer']['ro-ro'] = "";
 $text['label-transfer']['ru-ru'] = "";
 $text['label-transfer']['sv-se'] = "";
 $text['label-transfer']['uk-ua'] = "";
+$text['label-transfer']['vi'] = "Di chuyển";
 
 $text['label-tools']['en-us'] = "Tools";
 $text['label-tools']['ar-eg'] = "الأدوات";
@@ -480,6 +497,7 @@ $text['label-switch_account_up']['ro-ro'] = "";
 $text['label-switch_account_up']['ru-ru'] = "FreeSwitch учетная запись доступна";
 $text['label-switch_account_up']['sv-se'] = "Switch Konto Igång";
 $text['label-switch_account_up']['uk-ua'] = "";
+$text['label-switch_account_up']['vi'] = "Chuyển tài khoản lên";
 
 $text['label-switch_account_down']['en-us'] = "Switch Account Down";
 $text['label-switch_account_down']['ar-eg'] = "";
@@ -500,6 +518,7 @@ $text['label-switch_account_down']['ro-ro'] = "";
 $text['label-switch_account_down']['ru-ru'] = "FreeSwitch учетная запись недоступна";
 $text['label-switch_account_down']['sv-se'] = "Switch Konto Avstängd";
 $text['label-switch_account_down']['uk-ua'] = "";
+$text['label-switch_account_down']['vi'] = "Chuyển tài khoản xuống";
 
 $text['label-status']['en-us'] = "Status";
 $text['label-status']['ar-eg'] = "الحالة";
@@ -520,6 +539,7 @@ $text['label-status']['ro-ro'] = "";
 $text['label-status']['ru-ru'] = "Статус";
 $text['label-status']['sv-se'] = "Status";
 $text['label-status']['uk-ua'] = "Статус";
+$text['label-status']['vi'] = "Trạng thái";
 
 $text['label-speed_dial_active']['en-us'] = "Speed Dial Active";
 $text['label-speed_dial_active']['ar-eg'] = "";
@@ -540,6 +560,7 @@ $text['label-speed_dial_active']['ro-ro'] = "";
 $text['label-speed_dial_active']['ru-ru'] = "Быстрый набор включен";
 $text['label-speed_dial_active']['sv-se'] = "Kortnummer Aktiv";
 $text['label-speed_dial_active']['uk-ua'] = "Швидкий набір активовано";
+$text['label-speed_dial_active']['vi'] = "Quay số nhanh đang hoạt động";
 
 $text['label-speed_dial']['en-us'] = "Speed Dial";
 $text['label-speed_dial']['ar-eg'] = "";
@@ -620,6 +641,7 @@ $text['label-sip_transport']['ro-ro'] = "";
 $text['label-sip_transport']['ru-ru'] = "Транспорт";
 $text['label-sip_transport']['sv-se'] = "Transport";
 $text['label-sip_transport']['uk-ua'] = "Транспорт";
+$text['label-sip_transport']['vi'] = "Vận chuyển";
 
 $text['label-sip_port']['en-us'] = "Port";
 $text['label-sip_port']['ar-eg'] = "منفذ";
@@ -640,6 +662,7 @@ $text['label-sip_port']['ro-ro'] = "";
 $text['label-sip_port']['ru-ru'] = "Порт";
 $text['label-sip_port']['sv-se'] = "Port";
 $text['label-sip_port']['uk-ua'] = "Порт";
+$text['label-sip_port']['vi'] = "Cổng";
 
 $text['label-shared_line']['en-us'] = "Shared Line";
 $text['label-shared_line']['ar-eg'] = "";
@@ -660,6 +683,7 @@ $text['label-shared_line']['ro-ro'] = "";
 $text['label-shared_line']['ru-ru'] = "Общая линия";
 $text['label-shared_line']['sv-se'] = "Delad Linje";
 $text['label-shared_line']['uk-ua'] = "";
+$text['label-shared_line']['vi'] = "Đường được chia sẻ";
 
 $text['label-settings']['en-us'] = "Settings";
 $text['label-settings']['ar-eg'] = "الأعدادات";
@@ -680,6 +704,7 @@ $text['label-settings']['ro-ro'] = "";
 $text['label-settings']['ru-ru'] = "Параметры";
 $text['label-settings']['sv-se'] = "Inställningar";
 $text['label-settings']['uk-ua'] = "Налаштування";
+$text['label-settings']['vi'] = "Cài đặt";
 
 $text['label-server_address']['en-us'] = "Server Address";
 $text['label-server_address']['ar-eg'] = "";
@@ -700,6 +725,7 @@ $text['label-server_address']['ro-ro'] = "";
 $text['label-server_address']['ru-ru'] = "Адрес сервера";
 $text['label-server_address']['sv-se'] = "Serveradress";
 $text['label-server_address']['uk-ua'] = "";
+$text['label-server_address']['vi'] = "Địa chỉ server";
 
 $text['label-register_expires']['en-us'] = "Register Expires";
 $text['label-register_expires']['ar-eg'] = "";
@@ -720,6 +746,7 @@ $text['label-register_expires']['ro-ro'] = "";
 $text['label-register_expires']['ru-ru'] = "Время жизни регистрации";
 $text['label-register_expires']['sv-se'] = "Registrering Utgår";
 $text['label-register_expires']['uk-ua'] = "";
+$text['label-register_expires']['vi'] = "Đăng ký hết hạn";
 
 $text['label-redirect']['en-us'] = "Redirect";
 $text['label-redirect']['ar-eg'] = "";
@@ -740,6 +767,7 @@ $text['label-redirect']['ro-ro'] = "";
 $text['label-redirect']['ru-ru'] = "Перенаправление";
 $text['label-redirect']['sv-se'] = "Omdirigera";
 $text['label-redirect']['uk-ua'] = "Перенаправлення";
+$text['label-redirect']['vi'] = "Chuyển hướng";
 
 $text['label-redial']['en-us'] = "Redial";
 $text['label-redial']['ar-eg'] = "Redial";
@@ -760,6 +788,7 @@ $text['label-redial']['ro-ro'] = "";
 $text['label-redial']['ru-ru'] = "Повторный вызов";
 $text['label-redial']['sv-se'] = "Redial";
 $text['label-redial']['uk-ua'] = "Redial";
+$text['label-redial']['vi'] = "Gọi lại";
 
 $text['label-record']['en-us'] = "Record";
 $text['label-record']['ar-eg'] = "تسجيل";
@@ -780,6 +809,7 @@ $text['label-record']['ro-ro'] = "";
 $text['label-record']['ru-ru'] = "Запись";
 $text['label-record']['sv-se'] = "Spela In";
 $text['label-record']['uk-ua'] = "Запис";
+$text['label-record']['vi'] = "Ghi âm";
 
 $text['label-pickup']['en-us'] = "Pickup";
 $text['label-pickup']['ar-eg'] = "";
@@ -800,6 +830,7 @@ $text['label-pickup']['ro-ro'] = "";
 $text['label-pickup']['ru-ru'] = "Перехват";
 $text['label-pickup']['sv-se'] = "Plocka";
 $text['label-pickup']['uk-ua'] = "";
+$text['label-pickup']['vi'] = "Nhấc máy";
 
 $text['label-public_hold']['en-us'] = "Public Hold";
 $text['label-public_hold']['ar-eg'] = "";
@@ -820,6 +851,7 @@ $text['label-public_hold']['ro-ro'] = "";
 $text['label-public_hold']['ru-ru'] = "Общее удержание";
 $text['label-public_hold']['sv-se'] = "Gemensam Vänt";
 $text['label-public_hold']['uk-ua'] = "";
+$text['label-public_hold']['vi'] = "Giữ công khai";
 
 $text['label-programmable']['en-us'] = "Programmable";
 $text['label-programmable']['ar-eg'] = "قابل للترجمة";
@@ -860,6 +892,7 @@ $text['label-profile_name']['ro-ro'] = "";
 $text['label-profile_name']['ru-ru'] = "Название";
 $text['label-profile_name']['sv-se'] = "Namn";
 $text['label-profile_name']['uk-ua'] = "Назва";
+$text['label-profile_name']['vi'] = "Tên";
 
 $text['label-profile_enabled']['en-us'] = "Enabled";
 $text['label-profile_enabled']['ar-eg'] = "";
@@ -880,6 +913,7 @@ $text['label-profile_enabled']['ro-ro'] = "";
 $text['label-profile_enabled']['ru-ru'] = "Включено";
 $text['label-profile_enabled']['sv-se'] = "Aktiverad";
 $text['label-profile_enabled']['uk-ua'] = "Включено";
+$text['label-profile_enabled']['vi'] = "Cho phép";
 
 $text['label-profile_domain']['en-us'] = "Domain";
 $text['label-profile_domain']['ar-eg'] = "النطاق";
@@ -900,6 +934,7 @@ $text['label-profile_domain']['ro-ro'] = "";
 $text['label-profile_domain']['ru-ru'] = "Домен";
 $text['label-profile_domain']['sv-se'] = "Domän";
 $text['label-profile_domain']['uk-ua'] = "Домен";
+$text['label-profile_domain']['vi'] = "Tên miền";
 
 $text['label-profile_description']['en-us'] = "Description";
 $text['label-profile_description']['ar-eg'] = "";
@@ -920,6 +955,7 @@ $text['label-profile_description']['ro-ro'] = "";
 $text['label-profile_description']['ru-ru'] = "Описание";
 $text['label-profile_description']['sv-se'] = "Beskrivning";
 $text['label-profile_description']['uk-ua'] = "Опис";
+$text['label-profile_description']['vi'] = "Mô tả";
 
 $text['label-profile']['en-us'] = "Profile";
 $text['label-profile']['ar-eg'] = "";
@@ -960,6 +996,7 @@ $text['label-private']['ro-ro'] = "";
 $text['label-private']['ru-ru'] = "Скрытный";
 $text['label-private']['sv-se'] = "Privat";
 $text['label-private']['uk-ua'] = "Опис";
+$text['label-private']['vi'] = "Riêng tư";
 
 $text['label-private_hold']['en-us'] = "Private Hold";
 $text['label-private_hold']['ar-eg'] = "";
@@ -980,6 +1017,7 @@ $text['label-private_hold']['ro-ro'] = "";
 $text['label-private_hold']['ru-ru'] = "";
 $text['label-private_hold']['sv-se'] = "";
 $text['label-private_hold']['uk-ua'] = "";
+$text['label-private_hold']['vi'] = "Giữ riêng tư";
 
 $text['label-presence_watcher']['en-us'] = "Presence Watcher";
 $text['label-presence_watcher']['ar-eg'] = "";
@@ -1000,6 +1038,7 @@ $text['label-presence_watcher']['ro-ro'] = "";
 $text['label-presence_watcher']['ru-ru'] = "Наблюдаемый статус присутствия";
 $text['label-presence_watcher']['sv-se'] = "Närvaro Hantering";
 $text['label-presence_watcher']['uk-ua'] = "";
+$text['label-presence_watcher']['vi'] = "Theo dõi sự hiện diện";
 
 $text['label-presence']['en-us'] = "Presence";
 $text['label-presence']['ar-eg'] = "";
@@ -1020,6 +1059,7 @@ $text['label-presence']['ro-ro'] = "";
 $text['label-presence']['ru-ru'] = "Статус присутствия";
 $text['label-presence']['sv-se'] = "Närvaro";
 $text['label-presence']['uk-ua'] = "";
+$text['label-presence']['vi'] = "Sự hiện diện";
 
 $text['label-prefix']['en-us'] = "Prefix";
 $text['label-prefix']['ar-eg'] = "";
@@ -1060,6 +1100,7 @@ $text['label-paging']['ro-ro'] = "";
 $text['label-paging']['ru-ru'] = "Пейджинг";
 $text['label-paging']['sv-se'] = "Personsökning";
 $text['label-paging']['uk-ua'] = "";
+$text['label-paging']['vi'] = "Đánh số trang";
 
 $text['label-p2t']['en-us'] = "Push to Talk";
 $text['label-p2t']['ar-eg'] = "";
@@ -1080,6 +1121,7 @@ $text['label-p2t']['ro-ro'] = "";
 $text['label-p2t']['ru-ru'] = "Push to Talk";
 $text['label-p2t']['sv-se'] = "Push to Talk ";
 $text['label-p2t']['uk-ua'] = "";
+$text['label-p2t']['vi'] = "Nhấn để gọi";
 
 $text['label-outbound_proxy_primary']['en-us'] = "Outbound Proxy";
 $text['label-outbound_proxy_primary']['ar-eg'] = "";
@@ -1220,6 +1262,7 @@ $text['label-new_sms']['ro-ro'] = "";
 $text['label-new_sms']['ru-ru'] = "Новое SMS";
 $text['label-new_sms']['sv-se'] = "Nytt SMS";
 $text['label-new_sms']['uk-ua'] = "";
+$text['label-new_sms']['vi'] = "SMS mới";
 
 $text['label-na']['en-us'] = "N/A";
 $text['label-na']['ar-eg'] = "لا يوجد";
@@ -1260,6 +1303,7 @@ $text['label-multicast_page']['ro-ro'] = "";
 $text['label-multicast_page']['ru-ru'] = "Широковещательное оповещение";
 $text['label-multicast_page']['sv-se'] = "Muticast Sida";
 $text['label-multicast_page']['uk-ua'] = "";
+$text['label-multicast_page']['vi'] = "Trang đa hướng";
 
 $text['label-multicast']['en-us'] = "Multicast";
 $text['label-multicast']['ar-eg'] = "";
@@ -1280,6 +1324,7 @@ $text['label-multicast']['ro-ro'] = "";
 $text['label-multicast']['ru-ru'] = "Широковещательное";
 $text['label-multicast']['sv-se'] = "Muticast";
 $text['label-multicast']['uk-ua'] = "";
+$text['label-multicast']['vi'] = "Đa hướng";
 
 $text['label-menu']['en-us'] = "Menu";
 $text['label-menu']['ar-eg'] = "القائمة";
@@ -1320,6 +1365,7 @@ $text['label-memory']['ro-ro'] = "";
 $text['label-memory']['ru-ru'] = "Память";
 $text['label-memory']['sv-se'] = "Minne";
 $text['label-memory']['uk-ua'] = "Пам’ять";
+$text['label-memory']['vi'] = "Bộ nhớ";
 
 $text['label-local_phonebook']['en-us'] = "Local Phonebook";
 $text['label-local_phonebook']['ar-eg'] = "";
@@ -1340,6 +1386,7 @@ $text['label-local_phonebook']['ro-ro'] = "";
 $text['label-local_phonebook']['ru-ru'] = "Локальная телефонная книга";
 $text['label-local_phonebook']['sv-se'] = "Lokal Telefonbok";
 $text['label-local_phonebook']['uk-ua'] = "";
+$text['label-local_phonebook']['vi'] = "Danh bạ nội bộ";
 
 $text['label-local_group']['en-us'] = "Local Group";
 $text['label-local_group']['ar-eg'] = "";
@@ -1360,6 +1407,7 @@ $text['label-local_group']['ro-ro'] = "";
 $text['label-local_group']['ru-ru'] = "Локальная группа";
 $text['label-local_group']['sv-se'] = "Lokal Grupp";
 $text['label-local_group']['uk-ua'] = "";
+$text['label-local_group']['vi'] = "Nhóm nội bộ";
 
 $text['label-lines']['en-us'] = "Lines";
 $text['label-lines']['ar-eg'] = "";
@@ -1380,6 +1428,7 @@ $text['label-lines']['ro-ro'] = "";
 $text['label-lines']['ru-ru'] = "Линии";
 $text['label-lines']['sv-se'] = "Linjer";
 $text['label-lines']['uk-ua'] = "Лінії";
+$text['label-lines']['vi'] = "Đường";
 
 $text['label-line_number']['en-us'] = "Line Number";
 $text['label-line_number']['ar-eg'] = "";
@@ -1400,6 +1449,7 @@ $text['label-line_number']['ro-ro'] = "";
 $text['label-line_number']['ru-ru'] = "Номер линии";
 $text['label-line_number']['sv-se'] = "Linje Nummer";
 $text['label-line_number']['uk-ua'] = "Номер лінії";
+$text['label-line_number']['vi'] = "Đường dây điện thoại";
 
 $text['label-line']['en-us'] = "Line";
 $text['label-line']['ar-eg'] = "";
@@ -1420,6 +1470,7 @@ $text['label-line']['ro-ro'] = "";
 $text['label-line']['ru-ru'] = "Линия";
 $text['label-line']['sv-se'] = "Linje";
 $text['label-line']['uk-ua'] = "";
+$text['label-line']['vi'] = "Đường dây";
 
 $text['label-ldap_search']['en-us'] = "LDAP Search";
 $text['label-ldap_search']['ar-eg'] = "";
@@ -1600,6 +1651,7 @@ $text['label-hold']['ro-ro'] = "";
 $text['label-hold']['ru-ru'] = "";
 $text['label-hold']['sv-se'] = "";
 $text['label-hold']['uk-ua'] = "";
+$text['label-hold']['vi'] = "Giữ";
 
 $text['label-history']['en-us'] = "History";
 $text['label-history']['ar-eg'] = "";
@@ -1620,6 +1672,7 @@ $text['label-history']['ro-ro'] = "";
 $text['label-history']['ru-ru'] = "История";
 $text['label-history']['sv-se'] = "Historia";
 $text['label-history']['uk-ua'] = "";
+$text['label-history']['vi'] = "Lịch sử";
 
 $text['label-group_pickup']['en-us'] = "Group Pickup";
 $text['label-group_pickup']['ar-eg'] = "";
@@ -1680,6 +1733,7 @@ $text['label-call_forward']['ro-ro'] = "";
 $text['label-call_forward']['ru-ru'] = "";
 $text['label-call_forward']['sv-se'] = "";
 $text['label-call_forward']['uk-ua'] = "";
+$text['label-call_forward']['vi'] = "Chuyển tiếp cuộc gọi";
 
 $text['label-conf']['en-us'] = "Conf";
 $text['label-conf']['ar-eg'] = "";
@@ -1720,6 +1774,7 @@ $text['label-empty']['ro-ro'] = "";
 $text['label-empty']['ru-ru'] = "Empty";
 $text['label-empty']['sv-se'] = "Tom";
 $text['label-empty']['uk-ua'] = "";
+$text['label-empty']['vi'] = "Trống";
 
 $text['label-filter']['en-us'] = "Filter";
 $text['label-filter']['ar-eg'] = "";
@@ -1740,6 +1795,7 @@ $text['label-filter']['ro-ro'] = "";
 $text['label-filter']['ru-ru'] = "Filter";
 $text['label-filter']['sv-se'] = "Filter";
 $text['label-filter']['uk-ua'] = "";
+$text['label-filter']['vi'] = "Lọc";
 
 $text['label-flash']['en-us'] = "Flash";
 $text['label-flash']['ar-eg'] = "";
@@ -1860,6 +1916,7 @@ $text['label-page']['ro-ro'] = "";
 $text['label-page']['ru-ru'] = "Page";
 $text['label-page']['sv-se'] = "Page";
 $text['label-page']['uk-ua'] = "";
+$text['label-page']['vi'] = "Trang";
 
 $text['label-park']['en-us'] = "Park";
 $text['label-park']['ar-eg'] = "";
@@ -1920,6 +1977,7 @@ $text['label-phonelock']['ro-ro'] = "";
 $text['label-phonelock']['ru-ru'] = "Блокировка телефона";
 $text['label-phonelock']['sv-se'] = "Telefonlås";
 $text['label-phonelock']['uk-ua'] = "";
+$text['label-phonelock']['vi'] = "Khóa điện thoại";
 
 $text['label-speed_dial_conf']['en-us'] = "Speed Dial Conf";
 $text['label-speed_dial_conf']['ar-eg'] = "";
@@ -2040,6 +2098,7 @@ $text['label-forward']['ro-ro'] = "";
 $text['label-forward']['ru-ru'] = "Переадресация";
 $text['label-forward']['sv-se'] = "Vidarekoppla";
 $text['label-forward']['uk-ua'] = "";
+$text['label-forward']['vi'] = "FChuyển tiếp";
 
 $text['label-extension']['en-us'] = "Extension";
 $text['label-extension']['ar-eg'] = "رقم داخلي";
@@ -2060,6 +2119,7 @@ $text['label-extension']['ro-ro'] = "";
 $text['label-extension']['ru-ru'] = "Внутренний номер";
 $text['label-extension']['sv-se'] = "Anknytning";
 $text['label-extension']['uk-ua'] = "Розширення (Extention)";
+$text['label-extension']['vi'] = "Máy nhánh";
 
 $text['label-expansion']['en-us'] = "Expansion";
 $text['label-expansion']['ar-eg'] = "";
@@ -2080,6 +2140,7 @@ $text['label-expansion']['ro-ro'] = "";
 $text['label-expansion']['ru-ru'] = "Донабор";
 $text['label-expansion']['sv-se'] = "Tillsats";
 $text['label-expansion']['uk-ua'] = "";
+$text['label-expansion']['vi'] = "Mở rộng";
 
 $text['label-eventlist_blf']['en-us'] = "Eventlist BLF";
 $text['label-eventlist_blf']['ar-eg'] = "";
@@ -2140,6 +2201,7 @@ $text['label-domain-name']['ro-ro'] = "";
 $text['label-domain-name']['ru-ru'] = "Имя домена";
 $text['label-domain-name']['sv-se'] = "Domän Namn";
 $text['label-domain-name']['uk-ua'] = "";
+$text['label-domain-name']['vi'] = "Tên miền";
 
 $text['label-domain']['en-us'] = "Domain";
 $text['label-domain']['ar-eg'] = "النطاق";
@@ -2160,6 +2222,7 @@ $text['label-domain']['ro-ro'] = "";
 $text['label-domain']['ru-ru'] = "Домен";
 $text['label-domain']['sv-se'] = "Domän";
 $text['label-domain']['uk-ua'] = "Домен";
+$text['label-domain']['vi'] = "Tên miền";
 
 $text['label-dnd']['en-us'] = "DND";
 $text['label-dnd']['ar-eg'] = "عدم الازعاج";
@@ -2200,6 +2263,7 @@ $text['label-display_name']['ro-ro'] = "";
 $text['label-display_name']['ru-ru'] = "Отображаемое имя";
 $text['label-display_name']['sv-se'] = "Display Namn";
 $text['label-display_name']['uk-ua'] = "Назва для відображення";
+$text['label-display_name']['vi'] = "Tên hiển thị";
 
 $text['label-directory']['en-us'] = "Directory";
 $text['label-directory']['ar-eg'] = "";
@@ -2220,6 +2284,7 @@ $text['label-directory']['ro-ro'] = "";
 $text['label-directory']['ru-ru'] = "Каталог";
 $text['label-directory']['sv-se'] = "Katalog";
 $text['label-directory']['uk-ua'] = "";
+$text['label-directory']['vi'] = "Đường dẫn";
 
 $text['label-dial_dtmf']['en-us'] = "Dial DTMF";
 $text['label-dial_dtmf']['ar-eg'] = "";
@@ -2260,6 +2325,8 @@ $text['label-device_vendor']['ro-ro'] = "";
 $text['label-device_vendor']['ru-ru'] = "Производитель";
 $text['label-device_vendor']['sv-se'] = "Tillverkare";
 $text['label-device_vendor']['uk-ua'] = "";
+$text['label-device_vendor']['vi'] = "Nhà cung cấp";
+$text['label-device_vendor']['vi'] = "Nhà cung cấp";
 
 $text['label-device_uuid_alternate']['en-us'] = "Alternate";
 $text['label-device_uuid_alternate']['ar-eg'] = "";
@@ -2279,7 +2346,7 @@ $text['label-device_uuid_alternate']['pt-pt'] = "Alternado";
 $text['label-device_uuid_alternate']['ro-ro'] = "";
 $text['label-device_uuid_alternate']['ru-ru'] = "Заместитель";
 $text['label-device_uuid_alternate']['sv-se'] = "Alternate";
-$text['label-device_uuid_alternate']['uk-ua'] = "заступник";
+$text['label-device_uuid_alternate']['uk-ua'] ="Thay thế";
 
 $text['label-device_username']['en-us'] = "Username";
 $text['label-device_username']['ar-eg'] = "اسم المستخدم";
@@ -2300,6 +2367,7 @@ $text['label-device_username']['ro-ro'] = "";
 $text['label-device_username']['ru-ru'] = "Имя пользователя";
 $text['label-device_username']['sv-se'] = "Användarnamn";
 $text['label-device_username']['uk-ua'] = "Ім’я користувача";
+$text['label-device_username']['vi'] = "Người dùng";
 
 $text['label-device_time_zone']['en-us'] = "Time Zone";
 $text['label-device_time_zone']['ar-eg'] = "منطقة التوقيت";
@@ -2320,6 +2388,7 @@ $text['label-device_time_zone']['ro-ro'] = "";
 $text['label-device_time_zone']['ru-ru'] = "Часовой пояс";
 $text['label-device_time_zone']['sv-se'] = "Tidszon";
 $text['label-device_time_zone']['uk-ua'] = "";
+$text['label-device_time_zone']['vi'] = "Múi giờ";
 
 $text['label-device_template']['en-us'] = "Template";
 $text['label-device_template']['ar-eg'] = "";
@@ -2340,6 +2409,7 @@ $text['label-device_template']['ro-ro'] = "";
 $text['label-device_template']['ru-ru'] = "Шаблон";
 $text['label-device_template']['sv-se'] = "Mall";
 $text['label-device_template']['uk-ua'] = "";
+$text['label-device_template']['vi'] = "bản mẫu";
 
 $text['label-device_setting_value']['en-us'] = "Value";
 $text['label-device_setting_value']['ar-eg'] = "";
@@ -2360,6 +2430,7 @@ $text['label-device_setting_value']['ro-ro'] = "";
 $text['label-device_setting_value']['ru-ru'] = "Значение";
 $text['label-device_setting_value']['sv-se'] = "Värde";
 $text['label-device_setting_value']['uk-ua'] = "";
+$text['label-device_setting_value']['vi'] = "Giá trị";
 
 $text['label-device_setting_name']['en-us'] = "Name";
 $text['label-device_setting_name']['ar-eg'] = "";
@@ -2380,6 +2451,7 @@ $text['label-device_setting_name']['ro-ro'] = "";
 $text['label-device_setting_name']['ru-ru'] = "Название";
 $text['label-device_setting_name']['sv-se'] = "Namn";
 $text['label-device_setting_name']['uk-ua'] = "";
+$text['label-device_setting_name']['vi'] = "Tên";
 
 $text['label-device_setting_description']['en-us'] = "Description";
 $text['label-device_setting_description']['ar-eg'] = "";
@@ -2400,6 +2472,7 @@ $text['label-device_setting_description']['ro-ro'] = "";
 $text['label-device_setting_description']['ru-ru'] = "Описание";
 $text['label-device_setting_description']['sv-se'] = "Beskrivning";
 $text['label-device_setting_description']['uk-ua'] = "";
+$text['label-device_setting_description']['vi'] = "Mô tả";
 
 $text['label-profiles']['en-us'] = "Profiles";
 $text['label-profiles']['ar-eg'] = "";
@@ -2440,6 +2513,7 @@ $text['label-device_enabled']['ro-ro'] = "";
 $text['label-device_enabled']['ru-ru'] = "Включено";
 $text['label-device_enabled']['sv-se'] = "Aktiverad";
 $text['label-device_enabled']['uk-ua'] = "";
+$text['label-device_enabled']['vi'] = "Cho phép";
 
 $text['label-device_password']['en-us'] = "Password";
 $text['label-device_password']['ar-eg'] = "كلمة السر";
@@ -2460,6 +2534,7 @@ $text['label-device_password']['ro-ro'] = "";
 $text['label-device_password']['ru-ru'] = "Пароль";
 $text['label-device_password']['sv-se'] = "Lösenord";
 $text['label-device_password']['uk-ua'] = "Пароль";
+$text['label-device_password']['vi'] = "Mật khẩu";
 
 $text['label-device_profiles']['en-us'] = "Profile";
 $text['label-device_profiles']['ar-eg'] = "Profile";
@@ -2500,6 +2575,7 @@ $text['label-device_model']['ro-ro'] = "";
 $text['label-device_model']['ru-ru'] = "Модель";
 $text['label-device_model']['sv-se'] = "Modell";
 $text['label-device_model']['uk-ua'] = "";
+$text['label-device_model']['vi'] = "Kiểu mẫu";
 
 $text['label-device_mac_address']['en-us'] = "MAC Address";
 $text['label-device_mac_address']['ar-eg'] = "";
@@ -2520,6 +2596,7 @@ $text['label-device_mac_address']['ro-ro'] = "";
 $text['label-device_mac_address']['ru-ru'] = "MAC-адрес";
 $text['label-device_mac_address']['sv-se'] = "MAC-adress";
 $text['label-device_mac_address']['uk-ua'] = "";
+$text['label-device_mac_address']['vi'] = "Địa chỉ MAC";
 
 $text['label-download']['en-us'] = "Download";
 $text['label-download']['ar-eg'] = "";
@@ -2540,6 +2617,7 @@ $text['label-download']['ro-ro'] = "";
 $text['label-download']['ru-ru'] = "Скачать";
 $text['label-download']['sv-se'] = "Ladda ned";
 $text['label-download']['uk-ua'] = "";
+$text['label-download']['vi'] = "Tải";
 
 $text['label-device_label']['en-us'] = "Label";
 $text['label-device_label']['ar-eg'] = "";
@@ -2560,6 +2638,7 @@ $text['label-device_label']['ro-ro'] = "";
 $text['label-device_label']['ru-ru'] = "Метка";
 $text['label-device_label']['sv-se'] = "Etikett";
 $text['label-device_label']['uk-ua'] = "";
+$text['label-device_label']['vi'] = "Nhãn hiệu";
 
 $text['label-device_key_value']['en-us'] = "Value";
 $text['label-device_key_value']['ar-eg'] = "";
@@ -2580,6 +2659,7 @@ $text['label-device_key_value']['ro-ro'] = "";
 $text['label-device_key_value']['ru-ru'] = "Значение";
 $text['label-device_key_value']['sv-se'] = "Värde";
 $text['label-device_key_value']['uk-ua'] = "";
+$text['label-device_key_value']['vi'] = "Giá trị";
 
 $text['label-device_key_type']['en-us'] = "Type";
 $text['label-device_key_type']['ar-eg'] = "";
@@ -2600,6 +2680,7 @@ $text['label-device_key_type']['ro-ro'] = "";
 $text['label-device_key_type']['ru-ru'] = "Тип";
 $text['label-device_key_type']['sv-se'] = "Typ";
 $text['label-device_key_type']['uk-ua'] = "";
+$text['label-device_key_type']['vi'] = "Loại";
 
 $text['label-device_key_line']['en-us'] = "Line";
 $text['label-device_key_line']['ar-eg'] = "";
@@ -2620,6 +2701,7 @@ $text['label-device_key_line']['ro-ro'] = "";
 $text['label-device_key_line']['ru-ru'] = "Линия";
 $text['label-device_key_line']['sv-se'] = "Linje";
 $text['label-device_key_line']['uk-ua'] = "";
+$text['label-device_key_line']['vi'] = "Đường dẫn";
 
 $text['label-device_key_label']['en-us'] = "Label";
 $text['label-device_key_label']['ar-eg'] = "";
@@ -2640,6 +2722,7 @@ $text['label-device_key_label']['ro-ro'] = "";
 $text['label-device_key_label']['ru-ru'] = "Метка";
 $text['label-device_key_label']['sv-se'] = "Etikett";
 $text['label-device_key_label']['uk-ua'] = "";
+$text['label-device_key_label']['vi'] = "Nhãn hiệu";
 
 $text['label-device_key_id']['en-us'] = "Key";
 $text['label-device_key_id']['ar-eg'] = "";
@@ -2680,6 +2763,7 @@ $text['label-device_key_extension']['ro-ro'] = "";
 $text['label-device_key_extension']['ru-ru'] = "Внутренний номер";
 $text['label-device_key_extension']['sv-se'] = "Anknytning";
 $text['label-device_key_extension']['uk-ua'] = "Розширення";
+$text['label-device_key_extension']['vi'] = "Máy nhánh";
 
 $text['label-device_key_category']['en-us'] = "Category";
 $text['label-device_key_category']['ar-eg'] = "";
@@ -2700,6 +2784,7 @@ $text['label-device_key_category']['ro-ro'] = "";
 $text['label-device_key_category']['ru-ru'] = "Категория";
 $text['label-device_key_category']['sv-se'] = "Kategori";
 $text['label-device_key_category']['uk-ua'] = "Категорія";
+$text['label-device_key_category']['vi'] = "Danh mục";
 
 $text['label-device_firmware_version']['en-us'] = "Firmware";
 $text['label-device_firmware_version']['ar-eg'] = "";
@@ -2740,6 +2825,7 @@ $text['label-device_description']['ro-ro'] = "";
 $text['label-device_description']['ru-ru'] = "Описание";
 $text['label-device_description']['sv-se'] = "Beskrivning";
 $text['label-device_description']['uk-ua'] = "Опис";
+$text['label-device_description']['vi'] = "Mô tả";
 
 $text['label-device_status']['en-us'] = "Status";
 $text['label-device_status']['ar-eg'] = "";
@@ -2760,6 +2846,7 @@ $text['label-device_status']['ro-ro'] = "";
 $text['label-device_status']['ru-ru'] = "Статус";
 $text['label-device_status']['sv-se'] = "Status";
 $text['label-device_status']['uk-ua'] = "Стан";
+$text['label-device_status']['vi'] = "Trạng thái";
 
 $text['label-device']['en-us'] = "Device";
 $text['label-device']['ar-eg'] = "الجهاز";
@@ -2780,6 +2867,7 @@ $text['label-device']['ro-ro'] = "";
 $text['label-device']['ru-ru'] = "Устройство";
 $text['label-device']['sv-se'] = "Enheter";
 $text['label-device']['uk-ua'] = "Пристрої";
+$text['label-device']['vi'] = "Thiết bị";
 
 $text['label-conference']['en-us'] = "Conference";
 $text['label-conference']['ar-eg'] = "";
@@ -2800,6 +2888,7 @@ $text['label-conference']['ro-ro'] = "";
 $text['label-conference']['ru-ru'] = "";
 $text['label-conference']['sv-se'] = "";
 $text['label-conference']['uk-ua'] = "";
+$text['label-conference']['vi'] = "Hội nghị";
 
 $text['label-call_return']['en-us'] = "Call Return";
 $text['label-call_return']['ar-eg'] = "";
@@ -2820,6 +2909,7 @@ $text['label-call_return']['ro-ro'] = "";
 $text['label-call_return']['ru-ru'] = "Возврат вызова";
 $text['label-call_return']['sv-se'] = "Tillbakaringning";
 $text['label-call_return']['uk-ua'] = "";
+$text['label-call_return']['vi'] = "Gọi lại";
 
 $text['label-call_pickup']['en-us'] = "Call Pickup";
 $text['label-call_pickup']['ar-eg'] = "";
@@ -2840,6 +2930,7 @@ $text['label-call_pickup']['ro-ro'] = "";
 $text['label-call_pickup']['ru-ru'] = "Перехват вызова";
 $text['label-call_pickup']['sv-se'] = "Plocka Samtal";
 $text['label-call_pickup']['uk-ua'] = "";
+$text['label-call_pickup']['vi'] = "Nhấc máy";
 
 $text['label-call_park']['en-us'] = "Call Park";
 $text['label-call_park']['ar-eg'] = "";
@@ -2900,6 +2991,7 @@ $text['label-button']['ro-ro'] = "";
 $text['label-button']['ru-ru'] = "Кнопка";
 $text['label-button']['sv-se'] = "Knapp";
 $text['label-button']['uk-ua'] = "Кнопка";
+$text['label-button']['vi'] = "Nút nhấn";
 
 $text['label-broadsoft_phonebook']['en-us'] = "Broadsoft Phonebook";
 $text['label-broadsoft_phonebook']['ar-eg'] = "";
@@ -3020,6 +3112,7 @@ $text['label-callers']['ro-ro'] = "";
 $text['label-callers']['ru-ru'] = "Звонящие";
 $text['label-callers']['sv-se'] = "Uppringare";
 $text['label-callers']['uk-ua'] = "";
+$text['label-callers']['vi'] = "Người gọi";
 
 $text['label-xfer']['en-us'] = "Xfer";
 $text['label-xfer']['ar-eg'] = "";
@@ -3080,6 +3173,7 @@ $text['label-messages']['ro-ro'] = "";
 $text['label-messages']['ru-ru'] = "Сообщения";
 $text['label-messages']['sv-se'] = "mMddelanden";
 $text['label-messages']['uk-ua'] = "повідомлення";
+$text['label-messages']['vi'] = "Người gọi";
 
 $text['label-micmute']['en-us'] = "MicMute";
 $text['label-micmute']['ar-eg'] = "MicMute";
@@ -3320,6 +3414,7 @@ $text['label-phone_book']['ro-ro'] = "";
 $text['label-phone_book']['ru-ru'] = "Телефонная книга";
 $text['label-phone_book']['sv-se'] = "Telefonbok";
 $text['label-phone_book']['uk-ua'] = "";
+$text['label-phone_book']['vi'] = "Dannh bạ điện thoại";
 
 $text['label-advisory_message']['en-us'] = "Advisory Message on/off";
 $text['label-advisory_message']['ar-eg'] = "";
@@ -3480,6 +3575,7 @@ $text['label-missed_calls']['ro-ro'] = "";
 $text['label-missed_calls']['ru-ru'] = "Пропущеные вызовы";
 $text['label-missed_calls']['sv-se'] = "Missade Samtal";
 $text['label-missed_calls']['uk-ua'] = "";
+$text['label-missed_calls']['vi'] = "Cuộc goijn bỏ lỡ";
 
 $text['label-received_calls']['en-us'] = "Received Calls";
 $text['label-received_calls']['ar-eg'] = "";
@@ -3500,6 +3596,7 @@ $text['label-received_calls']['ro-ro'] = "";
 $text['label-received_calls']['ru-ru'] = "Принятые вызовы";
 $text['label-received_calls']['sv-se'] = "Mottagna Samtal";
 $text['label-received_calls']['uk-ua'] = "";
+$text['label-received_calls']['vi'] = "Cuộc gọi đã nhận";
 
 $text['label-dialed_calls']['en-us'] = "Dialed Calls";
 $text['label-dialed_calls']['ar-eg'] = "";
@@ -3520,6 +3617,7 @@ $text['label-dialed_calls']['ro-ro'] = "";
 $text['label-dialed_calls']['ru-ru'] = "Исходящие вызовы";
 $text['label-dialed_calls']['sv-se'] = "Ringda Samtal";
 $text['label-dialed_calls']['uk-ua'] = "";
+$text['label-dialed_calls']['vi'] = "Cuộc gọi đi";
 
 $text['label-enable_account']['en-us'] = "Enable/Disable SIP Account";
 $text['label-enable_account']['ar-eg'] = "";
@@ -4120,6 +4218,7 @@ $text['header-devices']['ro-ro'] = "";
 $text['header-devices']['ru-ru'] = "Устройства";
 $text['header-devices']['sv-se'] = "Enheter";
 $text['header-devices']['uk-ua'] = "Пристрої";
+$text['header-devices']['vi'] = "Thiết bị";
 
 $text['header-device']['en-us'] = "Device";
 $text['header-device']['ar-eg'] = "";
@@ -4500,6 +4599,7 @@ $text['description-devices']['ro-ro'] = "";
 $text['description-devices']['ru-ru'] = "Устройства - это конечные точки, которые регистрируются в одном или нескольких внутренних номерах. Они добавляются в список вручную или автоматически, когда устройство запрашивает информацию о предоставлении ресурсов через HTTP/HTTPS.";
 $text['description-devices']['sv-se'] = "Enheter är ändpunkter som registrerar till en eller flera anknytningar. De läggs till i listan manuellt eller automatiskt när enheten provisionerar sig via HTTP / HTTPS. ";
 $text['description-devices']['uk-ua'] = "";
+$text['description-devices']['vi'] = "Thiết bị là điểm cuối đăng ký một hoặc nhiều tiện ích mở rộng. Chúng được thêm vào danh sách theo cách thủ công hoặc tự động khi thiết bị yêu cầu thông tin cung cấp qua HTTP / HTTPS.";
 
 $text['description-device_vendor']['en-us'] = "Enter the vendor name.";
 $text['description-device_vendor']['ar-eg'] = "";
@@ -4940,6 +5040,7 @@ $text['title-device_vendors']['ro-ro'] = "";
 $text['title-device_vendors']['ru-ru'] = "Производители";
 $text['title-device_vendors']['sv-se'] = "Tillverkare";
 $text['title-device_vendors']['uk-ua'] = "";
+$text['title-device_vendors']['vi'] = "Nhà cung cấp";
 
 $text['title-device_vendor']['en-us'] = "Vendor";
 $text['title-device_vendor']['ar-eg'] = "";
@@ -4960,6 +5061,7 @@ $text['title-device_vendor']['ro-ro'] = "";
 $text['title-device_vendor']['ru-ru'] = "Производитель";
 $text['title-device_vendor']['sv-se'] = "Tillverkare";
 $text['title-device_vendor']['uk-ua'] = "";
+$text['title-device_vendor']['vi'] = "Nhà cung cấp";
 
 $text['title_description-device_vendor']['en-us'] = "Defines the list of vendors used with provisioning devices.";
 $text['title_description-device_vendor']['ar-eg'] = "";
@@ -5000,5 +5102,6 @@ $text['button-vendors']['ro-ro'] = "";
 $text['button-vendors']['ru-ru'] = "Производители";
 $text['button-vendors']['sv-se'] = "Tillverkare";
 $text['button-vendors']['uk-ua'] = "";
+$text['button-vendors']['vi'] = "Vendors";
 
 ?>

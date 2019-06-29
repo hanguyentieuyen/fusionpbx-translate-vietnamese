@@ -19,6 +19,7 @@
 	$apps[$x]['menu'][$y]['title']['ru-ru'] = "Панель оператора";
 	$apps[$x]['menu'][$y]['title']['sv-se'] = "Telefonist Panel";
 	$apps[$x]['menu'][$y]['title']['uk-ua'] = "Панель оператора";
+	$apps[$x]['menu'][$y]['title']['vi'] = "Bảng điều khiển";
 	$apps[$x]['menu'][$y]['uuid'] = "dd3d173a-5d51-4231-ab22-b18c5b712bb2";
 	$apps[$x]['menu'][$y]['parent_uuid'] = "fd29e39c-c936-f5fc-8e2b-611681b266b5";
 	$apps[$x]['menu'][$y]['category'] = "internal";

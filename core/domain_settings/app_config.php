@@ -27,6 +27,7 @@
 		$apps[$x]['description']['ru-ru'] = "Управление одним доменом или несколькими доменами для нескольких пользователей";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
+		$apps[$x]['description']['vi'] = "Quản lý một tên miền hoặc nhiều tên miền cho thuê.";
 
 	//permission details
 		$y=0;

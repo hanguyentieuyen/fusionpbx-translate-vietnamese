@@ -27,6 +27,7 @@
 		$apps[$x]['description']['ru-ru'] = "Устройства для автопровижинга";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
+		$apps[$x]['description']['vi'] = "Thiết bị dự phòng.";
 
 	//permission details
 		$y=0;

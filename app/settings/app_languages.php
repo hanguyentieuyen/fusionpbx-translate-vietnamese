@@ -20,6 +20,7 @@ $text['title-settings-update']['ro-ro'] = "";
 $text['title-settings-update']['ru-ru'] = "Обновление Параметров";
 $text['title-settings-update']['sv-se'] = "Ändra Inställningar";
 $text['title-settings-update']['uk-ua'] = "Оновлення налаштувань";
+$text['title-settings-update']['vi'] = "Cập nhật cài đặt";
 
 $text['title-settings-add']['en-us'] = "Setting Add";
 $text['title-settings-add']['ar-eg'] = "";
@@ -40,6 +41,7 @@ $text['title-settings-add']['ro-ro'] = "";
 $text['title-settings-add']['ru-ru'] = "Параметры добавлены";
 $text['title-settings-add']['sv-se'] = "Lägg Till Inställning";
 $text['title-settings-add']['uk-ua'] = "Додавання налаштувань";
+$text['title-settings-add']['vi'] = "Thêm cài đặt";
 
 $text['label-xml-rpc-user']['en-us'] = "XML RPC Auth User";
 $text['label-xml-rpc-user']['ar-eg'] = "";
@@ -60,6 +62,7 @@ $text['label-xml-rpc-user']['ro-ro'] = "";
 $text['label-xml-rpc-user']['ru-ru'] = "Использовать XML RPC для подлинности Пользователя";
 $text['label-xml-rpc-user']['sv-se'] = "XML RPC Auth User";
 $text['label-xml-rpc-user']['uk-ua'] = "XML RPC Auth User ";
+$text['label-xml-rpc-user']['vi'] = "XML RPC xác thực người dùng";
 
 $text['label-xml-rpc-realm']['en-us'] = "XML RPC Auth Realm";
 $text['label-xml-rpc-realm']['ar-eg'] = "";
@@ -100,6 +103,7 @@ $text['label-xml-rpc-pw']['ro-ro'] = "";
 $text['label-xml-rpc-pw']['ru-ru'] = "XML RPC Пароль проверки подлинности";
 $text['label-xml-rpc-pw']['sv-se'] = "XML RPC Auth Password";
 $text['label-xml-rpc-pw']['uk-ua'] = "XML RPC Auth Password ";
+$text['label-xml-rpc-pw']['vi'] = "XML RPC xác thực mật khẩu";
 
 $text['label-xml-rpc-port']['en-us'] = "XML RPC HTTP Port";
 $text['label-xml-rpc-port']['ar-eg'] = "";
@@ -140,6 +144,7 @@ $text['label-shout-volume']['ro-ro'] = "";
 $text['label-shout-volume']['ru-ru'] = "Mod Shout Volume";
 $text['label-shout-volume']['sv-se'] = "Mod Shout Volume";
 $text['label-shout-volume']['uk-ua'] = "Mod Shout Volume ";
+$text['label-shout-volume']['en-us'] = "Mod Shout Volume";
 
 $text['label-shout-decoder']['en-us'] = "Mod Shout Decoder";
 $text['label-shout-decoder']['ar-eg'] = "";
@@ -180,6 +185,7 @@ $text['label-event-socket-pw']['ro-ro'] = "";
 $text['label-event-socket-pw']['ru-ru'] = "Пароль сокета событий";
 $text['label-event-socket-pw']['sv-se'] = "Event Socket Password";
 $text['label-event-socket-pw']['uk-ua'] = "Event Socket Password ";
+$text['label-event-socket-pw']['vi'] = "Mật khẩu Event Socket";
 
 $text['label-event-socket-port']['en-us'] = "Event Socket Port";
 $text['label-event-socket-port']['ar-eg'] = "";
@@ -200,6 +206,7 @@ $text['label-event-socket-port']['ro-ro'] = "";
 $text['label-event-socket-port']['ru-ru'] = "Порт сокета событий";
 $text['label-event-socket-port']['sv-se'] = "Event Socket Port ";
 $text['label-event-socket-port']['uk-ua'] = "Event Socket Port ";
+$text['label-event-socket-port']['vi'] = "Cổng Event Socket";
 
 $text['label-event-socket-ip']['en-us'] = "Event Socket IP Address";
 $text['label-event-socket-ip']['ar-eg'] = "";
@@ -220,6 +227,7 @@ $text['label-event-socket-ip']['ro-ro'] = "";
 $text['label-event-socket-ip']['ru-ru'] = "IP Address сокета событий";
 $text['label-event-socket-ip']['sv-se'] = "Event Socket IP Address";
 $text['label-event-socket-ip']['uk-ua'] = "Event Socket IP Address";
+$text['label-event-socket-ip']['vi'] = "Địa chỉ IP Event Socket ";
 
 $text['description-xml-rpc-user']['en-us'] = "Enter the XML RPC Auth User. default: xmlrpc";
 $text['description-xml-rpc-user']['ar-eg'] = "";

@@ -27,7 +27,7 @@
 		$apps[$x]['description']['ru-ru'] = "";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
-
+		$apps[$x]['description']['vi'] = "Gateways cung cấp quyền truy cập vào các mạng thoại khác. Đây có thể là nhà cung cấp giọng nói hoặc các hệ thống khác yêu cầu đăng ký SIP.";
 	//destination details
 		$y=0;
 		$apps[$x]['destinations'][$y]['type'] = "sql";

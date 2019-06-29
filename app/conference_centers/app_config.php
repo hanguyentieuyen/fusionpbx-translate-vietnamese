@@ -27,7 +27,8 @@
 		$apps[$x]['description']['ru-ru'] = "";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
-
+		$apps[$x]['description']['vi'] = "Trung tâm hội nghị cho phép một hoặc nhiều âm thanh và video.";
+		
 	//destination details
 		$y=0;
 		$apps[$x]['destinations'][$y]['type'] = "sql";

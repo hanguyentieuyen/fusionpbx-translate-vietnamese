@@ -19,6 +19,7 @@
 	$apps[$x]['menu'][$y]['title']['ru-ru'] = "Домены";
 	$apps[$x]['menu'][$y]['title']['sv-se'] = "Domäner";
 	$apps[$x]['menu'][$y]['title']['uk-ua'] = "Домени";
+	$apps[$x]['menu'][$y]['title']['vi'] = "Tên miền";
 	$apps[$x]['menu'][$y]['uuid'] = "4fa7e90b-6d6c-12d4-712f-62857402b801";
 	$apps[$x]['menu'][$y]['parent_uuid'] = "594d99c5-6128-9c88-ca35-4b33392cec0f";
 	$apps[$x]['menu'][$y]['category'] = "internal";
@@ -43,6 +44,7 @@
 	$apps[$x]['menu'][$y]['title']['ru-ru'] = "Параметры домена";
 	$apps[$x]['menu'][$y]['title']['sv-se'] = "Domän Inställning";
 	$apps[$x]['menu'][$y]['title']['uk-ua'] = "Налаштування доменів";
+	$apps[$x]['menu'][$y]['title']['vi'] = "Cài đặt tên miền";
 	$apps[$x]['menu'][$y]['uuid'] = "0869ac79-4af3-498f-af65-69662280d74e";
 	$apps[$x]['menu'][$y]['parent_uuid'] = "594d99c5-6128-9c88-ca35-4b33392cec0f";
 	$apps[$x]['menu'][$y]['category'] = "internal";

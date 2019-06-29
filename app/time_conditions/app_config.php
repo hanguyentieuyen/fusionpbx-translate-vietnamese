@@ -27,6 +27,7 @@
 		$apps[$x]['description']['ru-ru'] = "Прямые вызовы на основании времени суток.";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
+		$apps[$x]['description']['vi'] = "Cuộc gọi trực tiếp dựa trên thời gian trong ngày.";
 
 	//destination details
 		$y=0;

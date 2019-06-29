@@ -27,6 +27,8 @@
 		$apps[$x]['description']['ru-ru'] = "";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
+		$apps[$x]['description']['vi'] = "Quay số bên ngoài có một hoặc nhiều điều kiện phù hợp với các thuộc tính của cuộc gọi. Khi một cuộc gọi phù hợp với các điều kiện, cuộc gọi sẽ được chuyển đến cổng.";
+		
 
 	//permission details
 		$y=0;

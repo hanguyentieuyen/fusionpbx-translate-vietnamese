@@ -27,6 +27,7 @@
 		$apps[$x]['description']['ru-ru'] = "Настройки по умолчанию для всех доменов";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
+		$apps[$x]['description']['vi'] = "Cài đặt mặc định áp dụng cho tất cả các tên miền.";
 
 	//permission details
 		$y=0;

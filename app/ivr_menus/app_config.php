@@ -27,6 +27,7 @@
 		$apps[$x]['description']['ru-ru'] = "";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
+		$apps[$x]['description']['vi'] = "Menu IVR phát bản ghi hoặc cụm từ được xác định trước trình bày cho người gọi các tùy chọn để chọn. Mỗi tùy chọn có một điểm đến tương ứng. Các điểm đến có thể là máy nhánh, thư thoại, menu IVR, nhóm săn, tiện ích mở rộng FAX, v.v.";
 
 	//destination details
 		$y=0;

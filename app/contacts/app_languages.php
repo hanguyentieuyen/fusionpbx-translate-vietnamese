@@ -20,6 +20,7 @@ $text['title-contacts_import_google']['ro-ro'] = "";
 $text['title-contacts_import_google']['ru-ru'] = "Импортировать контакты Google";
 $text['title-contacts_import_google']['sv-se'] = "Importera Google Kontakter";
 $text['title-contacts_import_google']['uk-ua'] = "Імпортувати контакти Google";
+$text['title-contacts_import_google']['vi'] = "Nhập liên hệ Google";
 
 $text['title-contacts_import']['en-us'] = "Import Contacts";
 $text['title-contacts_import']['ar-eg'] = "";
@@ -40,6 +41,7 @@ $text['title-contacts_import']['ro-ro'] = "";
 $text['title-contacts_import']['ru-ru'] = "Импортировать Контакты";
 $text['title-contacts_import']['sv-se'] = "Importera Kontakter";
 $text['title-contacts_import']['uk-ua'] = "Імпортувати контакти";
+$text['title-contacts_import']['vi'] = "Nhập liên hệ";
 
 $text['title-contacts']['en-us'] = "Contacts";
 $text['title-contacts']['ar-eg'] = "";
@@ -60,6 +62,7 @@ $text['title-contacts']['ro-ro'] = "";
 $text['title-contacts']['ru-ru'] = "Контакты";
 $text['title-contacts']['sv-se'] = "Kontakter";
 $text['title-contacts']['uk-ua'] = "Контакти";
+$text['title-contacts']['vi'] = "Liên hệ";
 
 $text['title-contact_time_edit']['en-us'] = "Time Edit";
 $text['title-contact_time_edit']['ar-eg'] = "";
@@ -80,6 +83,7 @@ $text['title-contact_time_edit']['ro-ro'] = "";
 $text['title-contact_time_edit']['ru-ru'] = "Редактировать время";
 $text['title-contact_time_edit']['sv-se'] = "Redigera Tid";
 $text['title-contact_time_edit']['uk-ua'] = "час Редагувати";
+$text['title-contact_time_edit']['vi'] = "Chỉnh sửa thời gian";
 
 $text['title-contact_time_add']['en-us'] = "Time Add";
 $text['title-contact_time_add']['ar-eg'] = "";
@@ -100,6 +104,7 @@ $text['title-contact_time_add']['ro-ro'] = "";
 $text['title-contact_time_add']['ru-ru'] = "Добавить Время";
 $text['title-contact_time_add']['sv-se'] = "Lägg Till Tid";
 $text['title-contact_time_add']['uk-ua'] = "час додавання";
+$text['title-contact_time_add']['vi'] = "Thêm thời gian";
 
 $text['title-contact_setting_edit']['en-us'] = "Contact Setting Edit";
 $text['title-contact_setting_edit']['ar-eg'] = "";
@@ -120,6 +125,7 @@ $text['title-contact_setting_edit']['ro-ro'] = "";
 $text['title-contact_setting_edit']['ru-ru'] = "Редактировать Параметры Контакта";
 $text['title-contact_setting_edit']['sv-se'] = "Ändra Kontakt Inställning";
 $text['title-contact_setting_edit']['uk-ua'] = "";
+$text['title-contact_setting_edit']['vi'] = "Chỉnh sửa cài đặt liên hệ ";
 
 $text['title-contact_setting_add']['en-us'] = "Contact Setting Add";
 $text['title-contact_setting_add']['ar-eg'] = "";
@@ -140,6 +146,7 @@ $text['title-contact_setting_add']['ro-ro'] = "";
 $text['title-contact_setting_add']['ru-ru'] = "Добавить Параметры Контакта";
 $text['title-contact_setting_add']['sv-se'] = "Lägg Till Kontakt Inställning";
 $text['title-contact_setting_add']['uk-ua'] = "";
+$text['title-contact_setting_add']['vi'] = "Thêm cài đặt liên hệ";
 
 $text['title-contact_relation']['en-us'] = "Contact Relation";
 $text['title-contact_relation']['ar-eg'] = "";
@@ -160,6 +167,7 @@ $text['title-contact_relation']['ro-ro'] = "";
 $text['title-contact_relation']['ru-ru'] = "Контактное лицо";
 $text['title-contact_relation']['sv-se'] = "Kontakt Relation";
 $text['title-contact_relation']['uk-ua'] = "";
+$text['title-contact_relation']['vi'] = "Liên hệ";
 
 $text['title-contact_phones-edit']['en-us'] = "Contact Number Edit";
 $text['title-contact_phones-edit']['ar-eg'] = "";
@@ -180,6 +188,7 @@ $text['title-contact_phones-edit']['ro-ro'] = "";
 $text['title-contact_phones-edit']['ru-ru'] = "Редактирование контактного номера";
 $text['title-contact_phones-edit']['sv-se'] = "Ändra Kontakt Nummer";
 $text['title-contact_phones-edit']['uk-ua'] = "";
+$text['title-contact_phones-edit']['vi'] = "Chỉnh sửa số liên hệ";
 
 $text['title-contact_phones-add']['en-us'] = "Contact Number Add";
 $text['title-contact_phones-add']['ar-eg'] = "";
@@ -200,6 +209,7 @@ $text['title-contact_phones-add']['ro-ro'] = "";
 $text['title-contact_phones-add']['ru-ru'] = "Контактный номер Добавить";
 $text['title-contact_phones-add']['sv-se'] = "Lägg Till Kontakt Nummer";
 $text['title-contact_phones-add']['uk-ua'] = "";
+$text['title-contact_phones-add']['vi'] = "Thêm số liên hệ";
 
 $text['title-contact_notes-edit']['en-us'] = "Contact Note Edit";
 $text['title-contact_notes-edit']['ar-eg'] = "";
@@ -220,6 +230,7 @@ $text['title-contact_notes-edit']['ro-ro'] = "";
 $text['title-contact_notes-edit']['ru-ru'] = "Редактировать контактную информацию";
 $text['title-contact_notes-edit']['sv-se'] = "Ändra Kontakt Notering";
 $text['title-contact_notes-edit']['uk-ua'] = "";
+$text['title-contact_notes-edit']['vi'] = "Chỉnh sửa liên hệ ";
 
 $text['title-contact_notes-add']['en-us'] = "Contact Note Add";
 $text['title-contact_notes-add']['ar-eg'] = "";
@@ -240,6 +251,7 @@ $text['title-contact_notes-add']['ro-ro'] = "";
 $text['title-contact_notes-add']['ru-ru'] = "Контакт Добавить Примечание";
 $text['title-contact_notes-add']['sv-se'] = "Lägg Till Kontakts Notering";
 $text['title-contact_notes-add']['uk-ua'] = "";
+$text['title-contact_notes-add']['vi'] = "Thêm lưu ý liên hệ";
 
 $text['title-contact_addresses-edit']['en-us'] = "Contact Address Edit";
 $text['title-contact_addresses-edit']['ar-eg'] = "";
@@ -260,6 +272,7 @@ $text['title-contact_addresses-edit']['ro-ro'] = "";
 $text['title-contact_addresses-edit']['ru-ru'] = "Редактировать контактный адрес";
 $text['title-contact_addresses-edit']['sv-se'] = "Ändra Kontakt Adress";
 $text['title-contact_addresses-edit']['uk-ua'] = "";
+$text['title-contact_addresses-edit']['vi'] = "Chỉnh sửa địa chỉ liên hệ";
 
 $text['title-contact_addresses-add']['en-us'] = "Contact Address Add";
 $text['title-contact_addresses-add']['ar-eg'] = "";
@@ -280,6 +293,7 @@ $text['title-contact_addresses-add']['ro-ro'] = "";
 $text['title-contact_addresses-add']['ru-ru'] = "Добавить Адрес для связи: ";
 $text['title-contact_addresses-add']['sv-se'] = "Lägg Till Kontakt Adress";
 $text['title-contact_addresses-add']['uk-ua'] = "";
+$text['title-contact_addresses-add']['vi'] = "Thêm địa chỉ liên hệ";
 
 $text['title-contact-edit']['en-us'] = "Contact";
 $text['title-contact-edit']['ar-eg'] = "";
@@ -300,6 +314,7 @@ $text['title-contact-edit']['ro-ro'] = "";
 $text['title-contact-edit']['ru-ru'] = "Контакт";
 $text['title-contact-edit']['sv-se'] = "Kontakt";
 $text['title-contact-edit']['uk-ua'] = "Контакт";
+$text['title-contact-edit']['vi'] = "Liên hệ";
 
 $text['title-contact-add']['en-us'] = "Contact Add";
 $text['title-contact-add']['ar-eg'] = "";
@@ -320,6 +335,7 @@ $text['title-contact-add']['ro-ro'] = "";
 $text['title-contact-add']['ru-ru'] = "Контакты Добавить";
 $text['title-contact-add']['sv-se'] = "Lägg Till Kontakt";
 $text['title-contact-add']['uk-ua'] = "Додавання контакта";
+$text['title-contact-add']['vi'] = "Thêm liên hệ";
 
 $text['option-work']['en-us'] = "Work";
 $text['option-work']['ar-eg'] = "";
@@ -340,6 +356,7 @@ $text['option-work']['ro-ro'] = "";
 $text['option-work']['ru-ru'] = "Работа";
 $text['option-work']['sv-se'] = "Arbete";
 $text['option-work']['uk-ua'] = "";
+$text['option-work']['vi'] = "Hoạt động";
 
 $text['option-voicemail']['en-us'] = "Voicemail";
 $text['option-voicemail']['ar-eg'] = "";
@@ -360,6 +377,7 @@ $text['option-voicemail']['ro-ro'] = "";
 $text['option-voicemail']['ru-ru'] = "Голосовая почта";
 $text['option-voicemail']['sv-se'] = "Röstbrevlåda";
 $text['option-voicemail']['uk-ua'] = "Голосова пошта";
+$text['option-voicemail']['vi'] = "Thư thoại";
 
 $text['option-true']['en-us'] = "True";
 $text['option-true']['ar-eg'] = "";
@@ -380,6 +398,7 @@ $text['option-true']['ro-ro'] = "";
 $text['option-true']['ru-ru'] = "Да";
 $text['option-true']['sv-se'] = "Sann";
 $text['option-true']['uk-ua'] = "Так";
+$text['option-true']['vi'] = "Đúng";
 
 $text['option-text']['en-us'] = "Text";
 $text['option-text']['ar-eg'] = "";
@@ -400,6 +419,7 @@ $text['option-text']['ro-ro'] = "";
 $text['option-text']['ru-ru'] = "Текст";
 $text['option-text']['sv-se'] = "Text";
 $text['option-text']['uk-ua'] = "Текст";
+$text['option-text']['vi'] = "Văn bản";
 
 $text['option-shipping']['en-us'] = "Shipping";
 $text['option-shipping']['ar-eg'] = "";
@@ -420,6 +440,7 @@ $text['option-shipping']['ro-ro'] = "";
 $text['option-shipping']['ru-ru'] = "Доставка";
 $text['option-shipping']['sv-se'] = "Leverans";
 $text['option-shipping']['uk-ua'] = "";
+$text['option-shipping']['vi'] = "Vận chuyển";
 
 $text['option-pref']['en-us'] = "Preferred";
 $text['option-pref']['ar-eg'] = "";
@@ -440,6 +461,7 @@ $text['option-pref']['ro-ro'] = "";
 $text['option-pref']['ru-ru'] = "Предпочтительный";
 $text['option-pref']['sv-se'] = "Föredragen";
 $text['option-pref']['uk-ua'] = "";
+$text['option-pref']['vi'] = "Ưu tiên";
 
 $text['option-postal']['en-us'] = "Postal";
 $text['option-postal']['ar-eg'] = "";
@@ -460,6 +482,7 @@ $text['option-postal']['ro-ro'] = "";
 $text['option-postal']['ru-ru'] = "Почтовый";
 $text['option-postal']['sv-se'] = "Postkod";
 $text['option-postal']['uk-ua'] = "";
+$text['option-postal']['vi'] = "Bưu điện";
 
 $text['option-physical']['en-us'] = "Physical";
 $text['option-physical']['ar-eg'] = "";
@@ -480,6 +503,7 @@ $text['option-physical']['ro-ro'] = "";
 $text['option-physical']['ru-ru'] = "Физический";
 $text['option-physical']['sv-se'] = "Fysisk";
 $text['option-physical']['uk-ua'] = "";
+$text['option-physical']['vi'] = "Vật lý";
 
 $text['option-personal']['en-us'] = "Personal";
 $text['option-personal']['ar-eg'] = "";
@@ -500,6 +524,7 @@ $text['option-personal']['ro-ro'] = "";
 $text['option-personal']['ru-ru'] = "Персональный";
 $text['option-personal']['sv-se'] = "Personlig";
 $text['option-personal']['uk-ua'] = "";
+$text['option-personal']['vi'] = "Cá nhân";
 
 $text['option-parcel']['en-us'] = "Parcel";
 $text['option-parcel']['ar-eg'] = "";
@@ -520,6 +545,7 @@ $text['option-parcel']['ro-ro'] = "";
 $text['option-parcel']['ru-ru'] = "Пакет";
 $text['option-parcel']['sv-se'] = "Paket";
 $text['option-parcel']['uk-ua'] = "";
+$text['option-parcel']['vi'] = "Bưu kiện";
 
 $text['option-pager']['en-us'] = "Pager";
 $text['option-pager']['ar-eg'] = "";
@@ -540,6 +566,7 @@ $text['option-pager']['ro-ro'] = "";
 $text['option-pager']['ru-ru'] = "Пейджер";
 $text['option-pager']['sv-se'] = "Personsökare";
 $text['option-pager']['uk-ua'] = "Пейджер";
+$text['option-pager']['vi'] = "Số trang";
 
 $text['option-other']['en-us'] = "Other";
 $text['option-other']['ar-eg'] = "";
@@ -560,6 +587,7 @@ $text['option-other']['ro-ro'] = "";
 $text['option-other']['ru-ru'] = "Другие";
 $text['option-other']['sv-se'] = "Annat";
 $text['option-other']['uk-ua'] = "";
+$text['option-other']['vi'] = "Khác";
 
 $text['option-mobile']['en-us'] = "Mobile";
 $text['option-mobile']['ar-eg'] = "";

@@ -27,7 +27,7 @@
 		$apps[$x]['description']['ru-ru'] = "";
 		$apps[$x]['description']['sv-se'] = "";
 		$apps[$x]['description']['uk-ua'] = "";
-
+		$apps[$x]['description']['vi'] = "Điều khiển cuộc gọi cho phép khả năng gán số  hoạt động. Chúng có thể được sử dụng để tắt tiếng, bật tiếng hoặc các hoạt động khác trong cuộc gọi hội nghị.";
 	//permission details
 		$y=0;
 		$apps[$x]['permissions'][$y]['name'] = "conference_control_view";
