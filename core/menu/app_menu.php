@@ -25,7 +25,7 @@
 	$apps[$x]['menu'][$y]['path'] = "/core/menu/menu.php";
 	$apps[$x]['menu'][$y]['groups'][] = "superadmin";
 	$y++;
-	$apps[$x]['menu'][$y]['title']['en-us'] = "Homeeee";
+	$apps[$x]['menu'][$y]['title']['en-us'] = "Home";
 	$apps[$x]['menu'][$y]['title']['ar-eg'] = "";
 	$apps[$x]['menu'][$y]['title']['de-at'] = "Home";
 	$apps[$x]['menu'][$y]['title']['de-de'] = "Home";

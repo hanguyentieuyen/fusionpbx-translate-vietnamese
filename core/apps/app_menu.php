@@ -19,7 +19,7 @@
 	$apps[$x]['menu'][$y]['title']['ru-ru'] = "Приложения";
 	$apps[$x]['menu'][$y]['title']['sv-se'] = "Appar";
 	$apps[$x]['menu'][$y]['title']['uk-ua'] = "Додатки";
-	$apps[$x]['menu'][$y]['title']['vi'] = "Ungdung";
+	$apps[$x]['menu'][$y]['title']['vi'] = "Ứng dụng";
 	$apps[$x]['menu'][$y]['uuid'] = "fd29e39c-c936-f5fc-8e2b-611681b266b5";
 	$apps[$x]['menu'][$y]['parent_uuid'] = "";
 	$apps[$x]['menu'][$y]['category'] = "internal";
